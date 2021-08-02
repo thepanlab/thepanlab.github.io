@@ -1,4 +1,10 @@
-url: https://thepanlab.github.io/
+baseurl: /
+url: https://thepanlab.github.io
+
+
+layout: sidebar
+style: light
+
 name: The Pan Lab at OU
 description: >
   Artificial Intelligence, Supercomputing,
