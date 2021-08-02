@@ -1,0 +1,16 @@
+---
+id: 991
+title: Multi-cycle Selection of Sorghum Microbiomes for Biological Nitrogen Fixation
+date: 2017-03-15T22:40:14+00:00
+author: omicsbio
+layout: post
+guid: https://www.omicsbio.org/?p=991
+permalink: /2017/03/15/multi-cycle-selection-of-sorghum-microbiomes-for-biological-nitrogen-fixation/
+categories:
+  - Proposals
+---
+JGI selected our CSP proposal to sequence the microbiomes of sorghum.
+
+&nbsp;
+
+In natural environments with low nitrogen availability, many non-leguminous plants host nitrogen-fixation bacteria (diazotrophs) in the extracellular space of internal tissues (plant endosphere). Plant hosts can provide carbon and energy to diazotrophic bacteria in exchange for fixed nitrogen. The plant endosphere provides a protected environment to facilitate nitrogen fixation and reduce competition from other organisms for nutrient exchange. Intentional colonization of the Sorghum endosphere with symbiotic diazotrophs can potentially provide an environmentally-friendly and cost-effective means to promote plant growth in low-fertility semi-arid lands. The productivity of bioenergy Sorghum grown in marginal lands can be significantly improved by biological nitrogen fixation (BNF) using endophytic diazotrophs. However, it has been a challenge to establish stable colonization of plant endosphere by diazotrophs in the field. To address this challenge, we will use a multi-cycle microbiome selection approach to build microbial consortia that can colonize the Sorghum endosphere and provide fixed nitrogen to promote plant growth. This approach has been used on Arabidopsis thaliana to create stable microbiomes that can change the flowering time of the host [Panke-Buisse, et al, 2015]. We will adapt this approach to nitrogen fixation and use -omics analyses to unravel the molecular host-microbiome interactions during the selection. Sorghum plants will be selected based on their growth in nitrogen-poor soils and their incorporation of <sup>15</sup>N<sub>2</sub> fixed by root endophytes. The elite plant microbiomes will be used to inoculate the next cycle of Sorghum plants. The selection will be iterated for 3 cycles. By reducing soil nitrogen availability in each cycle, we expect to gradually improve the BNF performance of the elite plant microbiomes. Integrated -omics and imaging will be used to characterize the BNF consortia and the plant hosts to test a bacterial association hypothesis and a host selection hypothesis. The results may reveal the symbiotic associates of diazotrophs and the physiology changes of the host plant to select and accommodate an active BNF microbiome. This study will generate BNF consortia for Sorghum and provide fundamental understanding on the host-microbiome interaction under nitrogen limitation.

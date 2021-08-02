@@ -1,0 +1,16 @@
+---
+id: 931
+title: Proteomic and Mutant Analysis of the CO2 Concentrating Mechanism of Hydrothermal Vent Chemolithoautotroph Thiomicrospira crunogena
+date: 2017-01-28T17:51:01+00:00
+author: omicsbio
+layout: post
+guid: https://www.omicsbio.org/?p=931
+permalink: /2017/01/28/proteomic-and-mutant-analysis-of-the-co2-concentrating-mechanism-of-hydrothermal-vent-chemolithoautotroph-thiomicrospira-crunogena/
+categories:
+  - Publications
+---
+Mangiapia, T.-R. W. Brown, D. Chaput, E. Haller, T. L. Harmer, Z. Hashemy, R. Keeley, J. Leonard, P. Mancera, D. Nicholson, S. Stevens, P. Wanjugi, T. Zabinski, C. Pan, K. M. Scott, and U. S. F. Mcbl. (2017), _Journal of Bacteriology_ _199_. [[Link to Article](http://jb.asm.org/content/199/7/e00871-16.long)]
+
+Many autotrophic microorganisms are likely to adapt to scarcity in dissolved inorganic carbon (DIC; CO<sub>2</sub> + HCO<sub>3</sub><sup>&#8211;</sup> + CO<sub>3</sub><sup>2-</sup>) with CO<sub>2</sub> concentrating mechanisms (CCM) that actively transport DIC across the cell membrane to facilitate carbon fixation. Surprisingly, DIC transport has been well studied among cyanobacteria and microalgae only. The deep-sea vent gammaproteobacterial chemolithoautotroph _Thiomicrospira crunogena_ has a low-DIC inducible CCM, though the mechanism for uptake is unclear, as homologs to cyanobacterial transporters are absent. To identify the components of this CCM, proteomes of _T. crunogena_cultivated under low- and high-DIC conditions were compared. Fourteen proteins, including those comprising carboxysomes, were at least 4-fold more abundant under low-DIC conditions. One of these proteins was encoded by _Tcr_0854_; strains carrying mutated copies of this gene, as well as the adjacent _Tcr_0853_, required elevated DIC for growth. Strains carrying mutated copies of _Tcr_0853_ and _Tcr_0854_ overexpressed carboxysomes and had diminished ability to accumulate intracellular DIC. Based on reverse transcription (RT)-PCR, _Tcr_0853_ and _Tcr_0854_ were cotranscribed and upregulated under low-DIC conditions. The _Tcr_0853_-encoded protein was predicted to have 13 transmembrane helices. Given the mutant phenotypes described above, _Tcr_0853_ and _Tcr_0854_ may encode a two-subunit DIC transporter that belongs to a previously undescribed transporter family, though it is widespread among autotrophs from multiple phyla.
+
+IMPORTANCE: DIC uptake and fixation by autotrophs are the primary input of inorganic carbon into the biosphere. The mechanism for dissolved inorganic carbon uptake has been characterized only for cyanobacteria despite the importance of DIC uptake by autotrophic microorganisms from many phyla among the _Bacteria_ and _Archaea_ In this work, proteins necessary for dissolved inorganic carbon utilization in the deep-sea vent chemolithoautotroph _T. crunogena_ were identified, and two of these may be able to form a novel transporter. Homologs of these proteins are present in 14 phyla in _Bacteria_ and also in one phylum of _Archaea_, the _Euryarchaeota_ Many organisms carrying these homologs are autotrophs, suggesting a role in facilitating dissolved inorganic carbon uptake and fixation well beyond the genus _Thiomicrospira_.

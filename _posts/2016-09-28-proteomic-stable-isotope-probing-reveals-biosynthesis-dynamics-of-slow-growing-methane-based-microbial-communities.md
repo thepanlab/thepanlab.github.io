@@ -1,0 +1,14 @@
+---
+id: 947
+title: Proteomic Stable Isotope Probing Reveals Biosynthesis Dynamics of Slow Growing Methane Based Microbial Communities
+date: 2016-09-28T19:05:17+00:00
+author: omicsbio
+layout: post
+guid: https://www.omicsbio.org/?p=947
+permalink: /2016/09/28/proteomic-stable-isotope-probing-reveals-biosynthesis-dynamics-of-slow-growing-methane-based-microbial-communities/
+categories:
+  - Publications
+---
+J. Marlow, C. T. Skennerton, Z. Li, K. Chourey, R. L. Hettich, C. Pan, and V. J. Orphan. (2016) F_rontiers in Microbiology_ _7_. [[Link](https://www.frontiersin.org/articles/10.3389/fmicb.2016.00563/full)]
+
+Marine methane seep habitats represent an important control on the global flux of methane. Nucleotide-based meta-omics studies outline community-wide metabolic potential, but expression patterns of environmentally relevant proteins are poorly characterized. Proteomic stable isotope probing (proteomic SIP) provides additional information by characterizing phylogenetically specific, functionally relevant activity in mixed microbial communities, offering enhanced detection through system-wide product integration. Here we applied proteomic SIP to (15)[Formula: see text] and CH4 amended seep sediment microcosms in an attempt to track protein synthesis of slow-growing, low-energy microbial systems. Across all samples, 3495 unique proteins were identified, 11% of which were (15)N-labeled. Consistent with the dominant anaerobic oxidation of methane (AOM) activity commonly observed in anoxic seep sediments, proteins associated with sulfate reduction and reverse methanogenesis-including the ANME-2 associated methylenetetrahydromethanopterin reductase (Mer)-were all observed to be actively synthesized ((15)N-enriched). Conversely, proteins affiliated with putative aerobic sulfur-oxidizing epsilon- and gammaproteobacteria showed a marked decrease over time in our anoxic sediment incubations. The abundance and phylogenetic range of (15)N-enriched methyl-coenzyme M reductase (Mcr) orthologs, many of which exhibited novel post-translational modifications, suggests that seep sediments provide niches for multiple organisms performing analogous metabolisms. In addition, 26 proteins of unknown function were consistently detected and actively expressed under conditions supporting AOM, suggesting that they play important roles in methane seep ecosystems. Stable isotope probing in environmental proteomics experiments provides a mechanism to determine protein durability and evaluate lineage-specific responses in complex microbial communities placed under environmentally relevant conditions. Our work here demonstrates the active synthesis of a metabolically specific minority of enzymes, revealing the surprising longevity of most proteins over the course of an extended incubation experiment in an established, slow-growing, methane-impacted environmental system.

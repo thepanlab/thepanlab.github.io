@@ -1,0 +1,16 @@
+---
+id: 1010
+title: Development of a pipeline for high-throughput recovery of near-complete and complete microbial genomes from complex metagenomic datasets
+date: 2013-08-03T16:40:23+00:00
+author: omicsbio
+layout: post
+guid: https://www.omicsbio.org/?p=1010
+permalink: /2013/08/03/development-of-a-pipeline-for-high-throughput-recovery-of-near-complete-and-complete-microbial-genomes-from-complex-metagenomic-datasets/
+categories:
+  - Proposals
+---
+In collaboration with Jill Banfield at UC Berkeley, our proposal to the DOE JGI Emerging Technologies Opportunity Program was awarded.
+
+**Abstract**:
+
+Despite remarkable progress in cultivation-_independent_ methods for characterization of natural ecosystems, much of the microbial world remains unknown to us because the majority of the genomic information retrieved to date is fragmentary. New metagenomic approaches can dramatically alter this because it is now possible to recover complete and nearly complete genomes from highly complex consortia. These datasets sample coexisting taxa, thus also can uncover the ways in which microbial communities are organized, describe community dynamics and document evolutionary processes.  Currently, genome recovery is a relatively slow process requiring manual input, but this does not need to be the case: data analysis methods can be captured in workflows so that the vision of “ten thousand genomes at a time” may ultimately be realized. We propose four areas of research in support of this goal. **First**, we will develop guidelines for metagenome project design to optimize the ability to bin sequence fragments to the genomes from which they derive &#8211; a critical step in genome recovery. **Second**, we will develop new scaffolding algorithms, needed to address critical limitations with current algorithms as well as rapid approaches to assembly characterization and visualization. **Third,** we will develop methods to leverage newly available very long reads to aid in binning, genome recovery, and to sample rare taxa. **Fourth**, as metagenomic reads provide rich insight into population variation, we will renew efforts to develop tools to analyze sequence variation, also useful for circumventing assembly fragmentation due to strain variation. These capacities are of direct relevance to DOE, given their interest in biogeochemical processes associated with the carbon cycle, greenhouse gas production and consumption, and microbial biotechnologies. JGI, as a generator of massive sequence datasets and partner with a wide diversity of university and national laboratory investigators, is ideally positioned to develop and test such methods. The broadly applicable tools to be delivered by this project will find application across the metagenomics research community.

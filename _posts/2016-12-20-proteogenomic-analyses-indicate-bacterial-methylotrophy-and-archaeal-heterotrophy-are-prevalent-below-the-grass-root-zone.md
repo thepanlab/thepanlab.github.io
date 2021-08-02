@@ -1,0 +1,14 @@
+---
+id: 933
+title: Proteogenomic analyses indicate bacterial methylotrophy and archaeal heterotrophy are prevalent below the grass root zone
+date: 2016-12-20T17:55:27+00:00
+author: omicsbio
+layout: post
+guid: https://www.omicsbio.org/?p=933
+permalink: /2016/12/20/proteogenomic-analyses-indicate-bacterial-methylotrophy-and-archaeal-heterotrophy-are-prevalent-below-the-grass-root-zone/
+categories:
+  - Publications
+---
+N. Butterfield, Z. Li, P. F. Andeer, S. Spaulding, B. C. Thomas, A. Singh, R. L. Hettich, K. B. Suttle, A. J. Probst, S. G. Tringe, T. Northen, C. Pan, and J. F. Banfield. (2016), _Peerj_;4:e2687 [[Link to Article](https://peerj.com/articles/2687/)]
+
+Annually, half of all plant-derived carbon is added to soil where it is microbially respired to CO<sub>2</sub>. However, understanding of the microbiology of this process is limited because most culture-independent methods cannot link metabolic processes to the organisms present, and this link to causative agents is necessary to predict the results of perturbations on the system. We collected soil samples at two sub-root depths (10-20 cm and 30-40 cm) before and after a rainfall-driven nutrient perturbation event in a Northern California grassland that experiences a Mediterranean climate. From ten samples, we reconstructed 198 metagenome-assembled genomes that represent all major phylotypes. We also quantified 6,835 proteins and 175 metabolites and showed that after the rain event the concentrations of many sugars and amino acids approach zero at the base of the soil profile. Unexpectedly, the genomes of novel members of the Gemmatimonadetes and Candidate Phylum Rokubacteria phyla encode pathways for methylotrophy. We infer that these abundant organisms contribute substantially to carbon turnover in the soil, given that methylotrophy proteins were among the most abundant proteins in the proteome. Previously undescribed Bathyarchaeota and Thermoplasmatales archaea are abundant in deeper soil horizons and are inferred to contribute appreciably to aromatic amino acid degradation. Many of the other bacteria appear to breakdown other components of plant biomass, as evidenced by the prevalence of various sugar and amino acid transporters and corresponding hydrolyzing machinery in the proteome. Overall, our work provides organism-resolved insight into the spatial distribution of bacteria and archaea whose activities combine to degrade plant-derived organics, limiting the transport of methanol, amino acids and sugars into underlying weathered rock. The new insights into the soil carbon cycle during an intense period of carbon turnover, including biogeochemical roles to previously little known soil microbes, were made possible via the combination of metagenomics, proteomics, and metabolomics.
