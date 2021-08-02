@@ -3,3 +3,5 @@ name: The Pan Lab at OU
 description: >
   Artificial Intelligence, Supercomputing,
   and Big -Omics Data
+
+theme: jekyll-theme-minimal
