@@ -28,14 +28,15 @@
   @include mq(md) {
     position: relative;
     max-width: $content-width;
-    margin-left: $nav-width-md;
+    margin-left:0;
+//     margin-left: $nav-width-md;
   }
 
   @include mq(lg) {
-//     margin-left: calc(
-//       (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
-//     );
-    margin-left:0;
+    margin-left: calc(
+      (100% - #{$nav-width + $content-width}) / 2 + #{$nav-width}
+    );
+   
   }
 }
 
