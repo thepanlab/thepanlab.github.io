@@ -7,7 +7,9 @@
   display: flex;
   flex-wrap: wrap;
   background-color: $sidebar-color;
-
+  text-overflow: ellipsis; 
+  overflow: hidden; 
+  white-space: nowrap;
   @include mq(md) {
     flex-wrap: nowrap;
     position: fixed;
