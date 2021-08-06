@@ -54,9 +54,6 @@
   z-index: 0;
   display: none;
   background-color: $sidebar-color;
-  position: fixed;
-  top: 0;
-  right: 0;
   @include mq(md) {
     display: flex;
     justify-content: space-between;
