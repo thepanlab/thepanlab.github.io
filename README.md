@@ -1,11 +1,4 @@
----
-layout: default
-title: Research
-nav_order: 1
-permalink: /
----
-
-## Computer Science Research
+# Computer Science Research
 
 #### Analytics of big -omics data with supercomputing
 
@@ -19,7 +12,7 @@ We are interested in developing deep learning algorithms to predict complex phen
 
 We are interested in using a network approach to extract biological knowledge from complex -omics data. A semantic network (knowledge graph) is constructed from existing databases of protein functions, metabolic and regulatory networks, and orthology relationships. Information can be extracting from -omics data by mapping all the measured genes, proteins, and metabolites onto such a semantic network. We develop scalable network analytics algorithms, such as graph pattern matching, community detection, and enrichment analysis, for knowledge discovery.
 
-## Biology Research
+# Biology Research
 
 #### Characterization of microbial communities using a meta-omics approach
 
