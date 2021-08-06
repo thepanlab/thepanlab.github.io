@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: "Artificial Intelligence, Supercomputing, and Big -Omics Data"
 nav_order: 1
 permalink: /
 ---
