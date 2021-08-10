@@ -1,10 +1,11 @@
 ---
-title: Quantitative metaproteomics: functional insights into microbial communities
+title: "Quantitative metaproteomics: functional insights into microbial communities"
 date: 2014-02-12T20:53:34+00:00
 layout: default
 parent: 2014 posts
 grand_parent: Posts
 ---
+
 # Quantitative metaproteomics: functional insights into microbial communities
 <span style="color: #0000ff;">Chongle Pan</span> & Banfield, J. F.
 
