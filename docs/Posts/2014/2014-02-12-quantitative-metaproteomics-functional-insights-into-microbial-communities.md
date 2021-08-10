@@ -1,6 +1,6 @@
 ---
-title: "Quantitative metaproteomics: functional insights into microbial communities"
-date: 2014-02-12T20:53:34+00:00
+title: 'Quantitative metaproteomics: functional insights into microbial communities'
+author: omicsbio
 layout: default
 parent: 2014 posts
 grand_parent: Posts
