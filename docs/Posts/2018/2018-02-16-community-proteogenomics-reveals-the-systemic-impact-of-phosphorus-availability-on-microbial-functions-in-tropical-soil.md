@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Community proteogenomics reveals the systemic impact of phosphorus availability on microbial 
-parent: 2018 posts
+title: Community proteogenomics reveals the systemic impact of phosphorus availability on microbial parent: 2018 posts
 grand_parent: Posts
 ---
 

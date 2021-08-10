@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Software
-nav_order: 5
+nav_order: 4
 ---
-# Software
 
 ### Metagenomics
 
