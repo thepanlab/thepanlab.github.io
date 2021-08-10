@@ -1,5 +1,4 @@
 ---
-id: 580
 title: How to queue many jobs and play nice with others on the cluster (Viper)
 date: 2014-10-01T12:13:47+00:00
 author: Chongle Pan

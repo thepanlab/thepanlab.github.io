@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Geochemical, metagenomic and metaproteomic insights into trace metal utilization by methane-oxidizing microbial consortia in sulphidic marine sediments.
 date: 2014-06-16T20:47:35+00:00
 layout: default
