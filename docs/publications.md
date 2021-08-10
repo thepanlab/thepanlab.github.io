@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Publications
-nav_order: 2
+nav_order: 4
 ---
+# Publications
 
 ### [Full List in Blog](https://www.omicsbio.org/category/blog/publications/) (>60 in total):
 

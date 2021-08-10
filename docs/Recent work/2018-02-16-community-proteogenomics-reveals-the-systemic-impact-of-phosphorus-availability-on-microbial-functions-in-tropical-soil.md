@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Community proteogenomics reveals the systemic impact of phosphorus availability on microbial 
-parent: 2018 posts
-grand_parent: Posts
+parent: Recent work
 ---
 
 Qiuming Yao, Zhou Li, Yang Song, S. Joseph Wright, Xuan Guo, Susannah G. Tringe, Malak M. Tfaily, Ljiljana Paša-Tolić, Terry C. Hazen, Benjamin L. Turner, Melanie A. Mayes, Chongle Pan
