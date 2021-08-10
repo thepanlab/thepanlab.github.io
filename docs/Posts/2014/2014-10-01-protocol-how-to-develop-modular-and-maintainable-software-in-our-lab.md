@@ -3,11 +3,9 @@ id: 585
 title: How to develop modular and maintainable software in the Pan lab
 date: 2014-10-01T21:01:00+00:00
 author: Chongle Pan
-layout: post
-guid: https://www.omicsbio.org/?p=585
-permalink: /2014/10/01/protocol-how-to-develop-modular-and-maintainable-software-in-our-lab/
-categories:
-  - Protocols
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 **Recommended Group Practices for Software Development**
 

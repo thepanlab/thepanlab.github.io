@@ -3,16 +3,9 @@ id: 286
 title: 'Omega: an Overlap-graph de novo Assembler for Metagenomics.'
 date: 2014-06-19T20:48:53+00:00
 author: omicsbio
-layout: post
-guid: https://www.omicsbio.org/?p=286
-permalink: /2014/06/19/omega-an-overlap-graph-de-novo-assembler-for-metagenomics/
-sharing_disabled:
-  - "1"
-categories:
-  - Publications
-tags:
-  - Genomics
-  - New algorithm
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 <span style="color: #0000ff;">Bahlul Haider</span>, <span style="color: #0000ff;">Tae-Hyuk Ahn</span>, Bushnell, B., <span style="color: #0000ff;">Juanjuan Chai</span>, Copeland, A. & <span style="color: #0000ff;">Chongle Pan</span>
 

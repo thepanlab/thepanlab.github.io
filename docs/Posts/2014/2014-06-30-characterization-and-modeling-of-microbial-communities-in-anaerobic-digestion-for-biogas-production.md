@@ -3,11 +3,9 @@ id: 965
 title: Characterization and Modeling of Microbial Communities in Anaerobic Digestion for Biogas Production
 date: 2014-06-30T11:37:53+00:00
 author: Chongle Pan
-layout: post
-guid: https://www.omicsbio.org/?p=965
-permalink: /2014/06/30/characterization-and-modeling-of-microbial-communities-in-anaerobic-digestion-for-biogas-production/
-categories:
-  - Proposals
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 This is an rejected proposal to DOE BER from 2011.
 

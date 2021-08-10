@@ -3,16 +3,9 @@ id: 300
 title: Diverse and divergent protein post-translational modifications in two growth stages of a natural microbial community
 date: 2014-07-26T21:13:57+00:00
 author: omicsbio
-layout: post
-guid: https://www.omicsbio.org/?p=300
-permalink: /2014/07/26/diverse-and-divergent-protein-post-translational-modifications-in-two-growth-stages-of-a-natural-microbial-community/
-sharing_disabled:
-  - "1"
-categories:
-  - Publications
-tags:
-  - 'Journal: Nature journals'
-  - Proteomics
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 <span style="color: #0000ff;">Zhou Li</span>, <span style="color: #0000ff;">Yingfeng Wang</span>, Yao, Q., Justice, N. B., <span style="color: #0000ff;">Tae-Hyuk Ahn</span>, Xu, D., Hettich, R. L., Banfield, J. F. & <span style="color: #0000ff;">Chongle Pan</span>
 

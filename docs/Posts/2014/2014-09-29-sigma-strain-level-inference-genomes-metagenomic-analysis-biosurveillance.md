@@ -3,16 +3,9 @@ id: 648
 title: 'Sigma: Strain-level inference of genomes from metagenomic analysis for biosurveillance.'
 date: 2014-09-29T22:35:23+00:00
 author: omicsbio
-excerpt: 'Sigma: Strain-level inference of genomes from metagenomic analysis for biosurveillance.'
-layout: post
-guid: https://www.omicsbio.org/?p=648
-permalink: /2014/09/29/sigma-strain-level-inference-genomes-metagenomic-analysis-biosurveillance/
-sharing_disabled:
-  - "1"
-categories:
-  - Publications
-tags:
-  - Genomics
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 <span style="color: #0000ff;">Tae-Hyuk Ahn</span>, <span style="color: #0000ff;">Juanjuan Chai</span> & <span style="color: #0000ff;">Chongle Pan</span>
 

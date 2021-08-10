@@ -3,11 +3,9 @@ id: 995
 title: Characterization of Organism-resolved Metabolic Activities in the ALOHA Ecosystem using Multiplexed Quantitative Proteomics and Proteomic Stable Isotope Probing
 date: 2014-09-15T22:54:33+00:00
 author: omicsbio
-layout: post
-guid: https://www.omicsbio.org/?p=995
-permalink: /2014/09/15/characterization-of-organism-resolved-metabolic-activities-in-the-aloha-ecosystem-using-multiplexed-quantitative-proteomics-and-proteomic-stable-isotope-probing/
-categories:
-  - Proposals
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 This is a rejected proposal of mine to the Simons Collaboration on Ocean Processes and Ecology (SCOPE) from the Simons Foundation.
 

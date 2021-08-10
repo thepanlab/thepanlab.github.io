@@ -3,13 +3,9 @@ id: 624
 title: How to extract metabolites from fungal and plant samples
 date: 2014-10-06T11:05:52+00:00
 author: Zhou Li
-layout: post
-guid: https://www.omicsbio.org/?p=624
-permalink: /2014/10/06/protocol-extract-metabolites-fungal-plant-samples/
-categories:
-  - Protocols
-tags:
-  - metabolomics
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 #### Procedure:
 

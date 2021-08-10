@@ -3,16 +3,9 @@ id: 296
 title: 'MIDAS: A Database-Searching Algorithm for Metabolite Identification in Metabolomics.'
 date: 2014-08-26T21:09:52+00:00
 author: omicsbio
-layout: post
-guid: https://www.omicsbio.org/?p=296
-permalink: /2014/08/26/midas-a-database-searching-algorithm-for-metabolite-identification-in-metabolomics/
-sharing_disabled:
-  - "1"
-categories:
-  - Publications
-tags:
-  - metabolomics
-  - New algorithm
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 <span style="color: #0000ff;">Yingfeng Wang</span>, Kora, G., Bowen, B. P. & <span style="color: #0000ff;">Chongle Pan</span>
 

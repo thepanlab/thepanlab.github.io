@@ -3,12 +3,11 @@ id: 962
 title: Analysis of Permafrost Carbon Cycling in Boreal Forest using Improved Metatranscriptomics and Proteomic Stable Isotope Probing
 date: 2014-10-30T11:22:37+00:00
 author: omicsbio
-layout: post
-guid: https://www.omicsbio.org/?p=962
-permalink: /2014/10/30/analysis-of-permafrost-carbon-cycling-in-boreal-forest-using-improved-metatranscriptomics-and-proteomic-stable-isotope-probing/
-categories:
-  - Proposals
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
+
 This is an proposal that I submitted to the DOE BER early career program in 2013. It was not funded.
 
 **Project Overview:**

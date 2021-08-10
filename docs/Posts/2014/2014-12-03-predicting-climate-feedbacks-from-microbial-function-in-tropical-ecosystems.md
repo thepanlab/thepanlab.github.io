@@ -1,8 +1,8 @@
 ---
-layout: default
 title: Predicting Climate Feedbacks from Microbial Function in Tropical Ecosystems
 date: 2014-12-03T16:25:56+00:00
 author: omicsbio
+layout: default
 parent: 2014 posts
 grand_parent: Posts
 ---

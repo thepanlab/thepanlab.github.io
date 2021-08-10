@@ -3,11 +3,9 @@ id: 580
 title: How to queue many jobs and play nice with others on the cluster (Viper)
 date: 2014-10-01T12:13:47+00:00
 author: Chongle Pan
-layout: post
-guid: https://www.omicsbio.org/?p=580
-permalink: /2014/10/01/protocol-how-to-queue-many-jobs-and-play-nice-with-others-on-the-cluster-viper/
-categories:
-  - Protocols
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 This is a guest post from Doug Hyatt:
 

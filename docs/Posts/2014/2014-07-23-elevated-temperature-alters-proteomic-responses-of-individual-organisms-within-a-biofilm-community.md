@@ -3,15 +3,9 @@ id: 298
 title: Elevated temperature alters proteomic responses of individual organisms within a biofilm community
 date: 2014-07-23T21:11:46+00:00
 author: omicsbio
-layout: post
-guid: https://www.omicsbio.org/?p=298
-permalink: /2014/07/23/elevated-temperature-alters-proteomic-responses-of-individual-organisms-within-a-biofilm-community/
-sharing_disabled:
-  - "1"
-categories:
-  - Publications
-tags:
-  - Proteomics
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 Mosier, A. C., <span style="color: #0000ff;">Zhou Li</span>, Thomas, B. C., Hettich, R. L., <span style="color: #0000ff;">Chongle Pan</span> & Banfield, J. F.
 

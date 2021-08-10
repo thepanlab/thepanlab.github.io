@@ -3,16 +3,9 @@ id: 642
 title: Functional Phylogenomics Analysis of Bacteria and Archaea using Consistent Genome Annotation with UniFam.
 date: 2014-10-09T22:25:46+00:00
 author: omicsbio
-excerpt: Functional Phylogenomics Analysis of Bacteria and Archaea using Consistent Genome Annotation with UniFam.
-layout: post
-guid: https://www.omicsbio.org/?p=642
-permalink: /2014/10/09/functional-phylogenomics-analysis-bacteria-archaea-using-consistent-genome-annotation-unifam/
-basic_page_layout:
-  - full
-categories:
-  - Publications
-tags:
-  - Genomics
+layout: default
+parent: 2014 posts
+grand_parent: Posts
 ---
 <span style="color: #0000ff;">Juanjuan Chai</span>, Kora, G., <span style="color: #0000ff;">Tae-Hyuk Ahn</span>, Hyatt, D. & <span style="color: #0000ff;">Chongle Pan</span>
 
