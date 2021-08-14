@@ -4,6 +4,8 @@ title: People
 nav_order: 6
 ---
 
+# People
+
 ### **Principle Investigator:**
 
 [**Chongle Pan,**](https://github.com/chonglepan) Associate Professor,  
