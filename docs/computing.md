@@ -5,7 +5,7 @@ nav_order: 7
 ---
 # Computing resources
 
-## Condominium nodes on the [Schooner supercomputer](https://www.ou.edu/oscer/resources/hpc):
+## Condominium nodes on the [Schooner](https://www.ou.edu/oscer/resources/hpc) supercomputer:
 
 #### How to use the condominium nodes
   - [How to submit batch jobs to our partition](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
@@ -14,7 +14,7 @@ nav_order: 7
 ### One dual-A100 GPU node (Nov. 2021)
   - Purpose: production deep learning on two A100 GPUs
   - Node ID: TBD 
-  - CPUs: dual AMD EPYC Rome 7452 32-core
+  - CPUs: dual 32-core AMD EPYC Rome 7452 
   - GPUs: dual NVIDIA A100 40 GB
   - RAM: 256 GB
   - Disk: dual 960 GB SSD vSAS, RAID1
@@ -22,14 +22,14 @@ nav_order: 7
 ### Five Cascade Lake nodes (Jun. 2019) 
   - Purpose: parallel computing on the 200 CPU cores
   - Node ID: c657, c658, c659, c660 and c661
-  - CPUs: dual Intel Xeon Gold 6230 Cascade Lake 20-core
+  - CPUs: dual 20-core Intel Xeon Gold 6230 Cascade Lake 
   - RAM: 192 GB
   - Disk: 800 GB SSD SATA
 
 ### One Skylake node (Nov. 2018)
   - Purpose: applications with large memory requirement
   - Node ID: c651
-  - CPUs: dual Intel Xeon Gold 6152 Skylake 22-core
+  - CPUs: dual 22-core Intel Xeon Gold 6152 Skylake 
   - RAM: 384 GB
   - Disk: dual 800 GB SSD SATA
 
@@ -44,7 +44,7 @@ nav_order: 7
 ### Thunder GPU server (Dec. 2020)
   - Purpose: interactive deep learning on two RTX 3090 GPUs
   - URL: thunder.cs.nor.ou.edu (SSH in OU intranet)
-  - CPUs: AMD Threadripper 3960X 24-core
+  - CPUs: 24-core AMD Threadripper 3960X 
   - GPUs: dual RTX 3090 24 GB
   - RAM: 128 GB
   - Disk: dual 2TB GB SSD
