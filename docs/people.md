@@ -4,14 +4,14 @@ title: People
 nav_order: 6
 ---
 
-#### **Principle Investigator:**
+### **Principle Investigator:**
 
 [**Chongle Pan,**](https://github.com/chonglepan) Associate Professor,  
 School of Compute Science,  
 Department of Microbiology and Plant Biology,  
 University of Oklahoma at Norman  
 
-#### **Computer Science Lab Members:**
+### **Computer Science Lab Members:**
 
 [**Adrien Badré**](https://github.com/adbadre), Ph.D. Student in Computer Science  
 Research Areas: deep learning, explainability, predictive genomics  
@@ -30,7 +30,7 @@ Research Areas: predictive genomics, bioinformatics
 Research Areas: natural text understanding, conversational agent  
 2018, M.S. in Computer Science  
 
-#### **Microbiology Lab Members:**
+### **Microbiology Lab Members:**
 
 [**Dongyu Wang**](https://github.com/dywang0323), Ph.D. Student in Microbiology  
 Research Areas: environmental microbiome  
@@ -44,7 +44,7 @@ Research Areas: proteomics
 Research Areas: human microbiome, prebiotics  
 2018, B.S. in Microbiology
 
-#### **Lab Alumni:**
+### **Lab Alumni:**
 
   * [**Yingfeng Wang**](http://www.yingfengwang.org/), Postdoc in the Pan lab (2012~2014), then Assistant Professor at the School of Information Technology in the Middle Georgia State University, now Associate Professor at the Department of Computer Science and Engineering in the University of Tennessee at Chattanooga.
   * [**Tae-Hyuk Ahn**,](http://cs.slu.edu/people/ahnt) Postdoc in the Pan lab (2012~2015), then Assistant Professor at the Department of Mathematics and Computer Science in Saint Louis University, now Associate Professor there
