@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computing
+title: Teaching
 nav_order: 7
 ---
 # Teaching
