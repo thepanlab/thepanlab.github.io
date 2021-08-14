@@ -16,13 +16,13 @@ Semesters offered by Dr. Pan: Spring 2020, Spring 2021
 
 ### Learning outcome: 
 At the completion of the course, students will be able to
-•	Explain parallel hardware, parallel software, and computer network
-•	Develop parallel computer programs with MPI on distributed memory systems
-•	Develop multi-threaded computer programs with OpenMP on shared memory systems
-•	Develop accelerated computer programs with CUDA on graphics processing units (GPU)
-•	Analyze and measure the performance of parallel algorithms
-•	Use Hadoop and MapReduce for big data analytics
-•	Explain the TCP/IP layered protocol, socket programming, and other network protocols
+-	Explain parallel hardware, parallel software, and computer network
+-	Develop parallel computer programs with MPI on distributed memory systems
+-	Develop multi-threaded computer programs with OpenMP on shared memory systems
+-	Develop accelerated computer programs with CUDA on graphics processing units (GPU)
+-	Analyze and measure the performance of parallel algorithms
+-	Use Hadoop and MapReduce for big data analytics
+-	Explain the TCP/IP layered protocol, socket programming, and other network protocols
 
 ## MPBIO 4810/5810: Introduction to Python Programming for Data Analytics
 
@@ -35,12 +35,12 @@ Semesters offered by Dr. Pan: Fall 2019, Fall 2020, Fall 2021
 
 ### Learning outcome: 
 At the completion of the course, students will be able to
-•	Develop Python programs for data analytics
-•	Import and parse data from files
-•	Store data in proper data structures 
-•	Write modular Python programs using functions   
-•	Visualize data in charts
-•	Perform basic data analytics 
+-	Develop Python programs for data analytics
+-	Import and parse data from files
+-	Store data in proper data structures 
+-	Write modular Python programs using functions   
+-	Visualize data in charts
+-	Perform basic data analytics 
 
 
 
