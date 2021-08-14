@@ -53,4 +53,4 @@ B.S. in Microbiology (2018), University of Oklahoma
   * [**Qiuming Yao**](https://www.linkedin.com/in/qiuming-yao-76005438), Postdoc in the Pan lab (2014 ~ 2014), then Postdoc at Harvard Medical School, now Assistant Professor at the University of Nebraska at Lincoln.
   * [**Xuan Guo**](https://www.linkedin.com/in/xuan-guo-7b590886), Postdoc in the Pan lab (2015 ~ 2017), then Assistant Professor at the Department of Computer Sciences in the University of North Texas
   * [**Zhou Li**](https://scholar.google.com/citations?hl=en&user=-IOfp1gAAAAJ&view_op=list_works&sortby=pubdate), Ph.D. student and Postdoc in the Pan lab (2009~2018), then Senior Scientist at Pfizer Inc.
-  * [**Li Zhang**](https://github.com/lizhang12), Postdoc in the Pan lab (2019 ~ 2020), then Assistant Professor at Xinxiang Medical University
+  * [**Li Zhang**](https://orcid.org/0000-0002-7862-6690), Postdoc in the Pan lab (2019 ~ 2020), then Assistant Professor at Xinxiang Medical University
