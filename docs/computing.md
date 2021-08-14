@@ -8,8 +8,8 @@ nav_order: 7
 ## Condominium nodes on the [Schooner supercomputer](https://www.ou.edu/oscer/resources/hpc):
 
 #### How to use the condominium nodes
-  - [How to submit batch jobs](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
-  - [How to run the Jupyter notebooks](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
+  - [How to submit batch jobs to our partition](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
+  - [How to run Jupyter notebooks on our nodes](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
 
 ### One dual-A100 GPU node (Nov. 2021)
   - Purpose: production deep learning on two A100 GPUs
@@ -51,8 +51,8 @@ nav_order: 7
   - [How to use Thunder](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md)
 
 ### Virtual machines on the [OU cloud](https://www.ou.edu/oscer/resources/our_cloud) 
-  - Booming web server (URL: booming.oscer.ou.edu)
-  - Milkyway database server (URL: milkyway.oscer.ou.edu)
+  - [Booming web server](http://booming.oscer.ou.edu)
+  - Milkyway database server
 
 
 
