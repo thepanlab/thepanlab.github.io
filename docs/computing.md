@@ -7,6 +7,10 @@ nav_order: 7
 
 ## Condominium nodes on the [Schooner supercomputer](https://www.ou.edu/oscer/resources/hpc):
 
+#### How to use the condominium nodes
+  - [How to submit batch jobs](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
+  - [How to run the Jupyter notebooks](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
+
 ### One dual-A100 GPU node (Nov. 2021)
   - Purpose: production deep learning on two A100 GPUs
   - Node ID: TBD 
@@ -29,14 +33,17 @@ nav_order: 7
   - RAM: 384 GB
   - Disk: dual 800 GB SSD SATA
 
-#### How to use the condominium nodes
-- [How to submit batch jobs](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
-- [How to run the Jupyter notebooks](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
-- How to manage your data and optimize the I/O
+### Data storage
+[How to manage your data and optimize the I/O](https://github.com/thepanlab/supercomputers)
+  - local SSD space on compute nodes (/lwork)
+  - 2 TB disk space on Schooner high-performance file system (/work/omicsbio)
+  - 10 TB tape archival space on [OURRstore](https://www.ou.edu/oscer/resources/ourrstore--ou---regional-research-store)
+
 
 ## Computer servers
 
 ### Thunder GPU server (Dec. 2020)
+[How to use Thunder](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md)
   - Purpose: interactive deep learning on two RTX 3090 GPUs
   - URL: thunder.cs.nor.ou.edu (SSH in OU intranet)
   - CPUs: AMD Threadripper 3960X 24-core
@@ -44,17 +51,9 @@ nav_order: 7
   - RAM: 128 GB
   - Disk: dual 2TB GB SSD
 
-#### How to use the Thunder server
-- [How to login and run the Jupyter notebook](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md)
+### Virtual machines on the [OU cloud](https://www.ou.edu/oscer/resources/our_cloud) 
+  - Booming web server (URL: booming.oscer.ou.edu)
+  - Milkyway database server (URL: milkyway.oscer.ou.edu)
 
-### Booming web server
-  - Purpose: web server
-  - URL: booming.oscer.ou.edu
-  - Virtual machine on the [OU research cloud](https://www.ou.edu/oscer/resources/our_cloud) 
 
-### Milkyway database server
-  - Purpose: database server
-  - URL: milkyway.oscer.ou.edu
-  - Virtual machine on the [OU research cloud](https://www.ou.edu/oscer/resources/our_cloud)
 
-  
