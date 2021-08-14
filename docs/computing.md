@@ -7,7 +7,7 @@ nav_order: 7
 
 ## Condominium nodes on the [Schooner supercomputer](https://www.ou.edu/oscer/resources/hpc):
 
-### One A100 GPU node (Nov. 2021)
+### One dual-A100 GPU node (Nov. 2021)
   - Purpose: production deep learning on the dual A100 GPUs
   - Node ID: TBD 
   - CPUs: dual AMD EPYC Rome 7452 32-core
@@ -15,7 +15,7 @@ nav_order: 7
   - RAM: 256 GB
   - Disk: dual 960 GB SSD vSAS, RAID1
 
-### Five Cascade Lake node (Jun. 2019) 
+### Five Cascade Lake nodes (Jun. 2019) 
   - Purpose: parallel computing on the 200 CPU cores
   - Node ID: c657, c658, c659, c660 and c661
   - CPUs: dual Intel Xeon Gold 6230 Cascade Lake 20-core
