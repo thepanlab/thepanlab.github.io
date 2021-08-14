@@ -29,7 +29,7 @@ nav_order: 7
   - RAM: 384 GB
   - Disk: dual 800 GB SSD SATA
 
-  #### Useful instructions for using the condominium nodes
+#### How to use the condominium nodes
 - [How to submit batch jobs](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
 - [How to run the Jupyter notebooks](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
 - How to manage your data and optimize the I/O
@@ -44,7 +44,7 @@ nav_order: 7
   - RAM: 128 GB
   - Disk: dual 2TB GB SSD
 
-  #### Useful instructions for using the Thunder server
+#### How to use the Thunder server
 - [How to login and run the Jupyter notebook](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md)
 
 ### Booming web server
