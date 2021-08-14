@@ -12,12 +12,12 @@ nav_order: 7
   - [How to run Jupyter notebooks on our nodes](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
 
 ### One dual-A100 GPU node (Nov. 2021)
-  - Purpose: production deep learning on two A100 GPUs
-  - Node ID: TBD 
-  - CPUs: dual 32-core AMD EPYC Rome 7452 
-  - GPUs: dual NVIDIA A100 40 GB
-  - RAM: 256 GB
-  - Disk: dual 960 GB SSD vSAS, RAID1
+Production deep learning on two A100 GPUs.  
+Node ID: TBD.   
+CPUs: dual 32-core AMD EPYC Rome 7452.   
+GPUs: dual NVIDIA A100 40 GB.  
+RAM: 256 GB.  
+Disk: dual 960 GB SSD vSAS, RAID1.  
 
 ### Five Cascade Lake nodes (Jun. 2019) 
   - Purpose: parallel computing on the 200 CPU cores
