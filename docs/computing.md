@@ -8,7 +8,7 @@ nav_order: 7
 ## Condominium nodes on the [Schooner supercomputer](https://www.ou.edu/oscer/resources/hpc):
 
 ### One dual-A100 GPU node (Nov. 2021)
-  - Purpose: production deep learning on the dual A100 GPUs
+  - Purpose: production deep learning on two A100 GPUs
   - Node ID: TBD 
   - CPUs: dual AMD EPYC Rome 7452 32-core
   - GPUs: dual NVIDIA A100 40 GB
@@ -37,7 +37,7 @@ nav_order: 7
 ## Computer servers
 
 ### Thunder GPU server (Dec. 2020)
-  - Purpose: interactive deep learning on the dual RTX 3090 GPUs
+  - Purpose: interactive deep learning on two RTX 3090 GPUs
   - URL: thunder.cs.nor.ou.edu (SSH in OU intranet)
   - CPUs: AMD Threadripper 3960X 24-core
   - GPUs: dual RTX 3090 24 GB
