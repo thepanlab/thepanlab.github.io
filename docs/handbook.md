@@ -5,9 +5,9 @@ nav_order: 9
 ---
 # Student Handbooks
 
-## [Computer Science Student Handbook](/docs/handbook_CS.md)
+## [Computer Science Ph.D. Student Handbook](/docs/handbook_CS.md)
 
-## [Microbiology Student Handbook](/docs/handbook_Bio.md)
+## [Microbiology Student Ph.D. Handbook](/docs/handbook_Bio.md)
 
 ## General Student Handbook
 
