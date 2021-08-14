@@ -34,22 +34,21 @@ nav_order: 7
   - Disk: dual 800 GB SSD SATA
 
 ### Data storage
-[How to manage your data and optimize the I/O](https://github.com/thepanlab/supercomputers)
   - local SSD space on compute nodes (/lwork)
-  - 2 TB disk space on Schooner high-performance file system (/work/omicsbio)
+  - 2 TB disk space on parallel file system (/work/omicsbio)
   - 10 TB tape archival space on [OURRstore](https://www.ou.edu/oscer/resources/ourrstore--ou---regional-research-store)
-
+  - [How to manage the data and optimize the I/O](https://github.com/thepanlab/supercomputers)
 
 ## Computer servers
 
 ### Thunder GPU server (Dec. 2020)
-[How to use Thunder](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md)
   - Purpose: interactive deep learning on two RTX 3090 GPUs
   - URL: thunder.cs.nor.ou.edu (SSH in OU intranet)
   - CPUs: AMD Threadripper 3960X 24-core
   - GPUs: dual RTX 3090 24 GB
   - RAM: 128 GB
   - Disk: dual 2TB GB SSD
+  - [How to use Thunder](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md)
 
 ### Virtual machines on the [OU cloud](https://www.ou.edu/oscer/resources/our_cloud) 
   - Booming web server (URL: booming.oscer.ou.edu)
