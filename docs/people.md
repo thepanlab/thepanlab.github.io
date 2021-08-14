@@ -15,34 +15,34 @@ University of Oklahoma at Norman
 
 [**Adrien Badré**](https://github.com/adbadre), Ph.D. Student in Computer Science (2018 ~ )  
 Research Areas: deep learning, explainability, predictive genomics  
-2018, M.S. in Data Science and Analytics, University of Oklahoma  
-2018, M.S. in Computer Science, Institut Supérieur Informatique, de Modélisation et de leurs Applications, France
+M.S. in Data Science and Analytics (2018), University of Oklahoma  
+M.S. in Computer Science (2018), Institut Supérieur Informatique, de Modélisation et de leurs Applications, France
 
 [**Paul Calle**](https://github.com/pcallec), Ph.D. Student in Computer Science (2019 ~ )  
 Research Areas: computer vision, biomedical imaging, AutoML  
-2018, M.S. in Data Science and Analytics, University of Oklahoma
+M.S. in Data Science and Analytics (2018), University of Oklahoma
 
 [**Justin Reynolds**](https://github.com/jcreyn), Ph.D. Student in Computer Science (2019 ~ )  
 Research Areas: predictive genomics, bioinformatics  
-2017 B.S. in Biology with Distinction, President's Honor Roll Awards
+B.S. in Biology with Distinction (2017), President's Honor Roll Awards, University of Oklahoma
 
 [**Yunlong Liu**](https://github.com/Alex-ylliu), Ph.D. Student in Computer Science (2021 ~ )  
 Research Areas: natural text understanding, conversational agent  
-2018, M.S. in Computer Science  
+M.S. in Computer Science (2018), Kansas State University
 
 ### **Microbiology Lab Members:**
 
 [**Dongyu Wang**](https://github.com/dywang0323), Ph.D. Student in Microbiology (2020 ~ )   
 Research Areas: environmental microbiome  
-2018, M.S. in Microbiology
-
+M.S. in Microbiology (2018), Shandong University
+ 
 [**Xiong Yi**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
 Research Areas: proteomics  
-2020, M.S. in Microbiology 
+M.S. in Microbiology (2020), Chinese Academy of Science
 
 [**Stormi Miller**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
 Research Areas: human microbiome, prebiotics  
-2018, B.S. in Microbiology
+B.S. in Microbiology (2018), University of Oklahoma
 
 ### **Lab Alumni:**
 
