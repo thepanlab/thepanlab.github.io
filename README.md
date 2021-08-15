@@ -21,3 +21,4 @@ Microbial communities drive many biological processes in diverse ecosystems. We 
 #### Inference of metabolic and regulatory networks in eukaryotic organisms.
 
 Fungi, plants, animals, and humans are complex organisms with large genomes and sophisticated regulations of transcriptomes, proteomes and metabolomes. We use integrated -omics analyses to shed light on the metabolic and regulatory networks of these organisms in collaboration with domain experts.  We are also interested in studying the molecular -omics phenotypes of genomic variations stemming from somatic mutations, natural genetic polymorphisms, or genetic engineering. This may improve our understanding of the genetic basis of diseases and traits of plants and humans.
+
