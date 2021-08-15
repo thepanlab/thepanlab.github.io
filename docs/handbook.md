@@ -2,6 +2,7 @@
 layout: default
 title: Handbooks
 nav_order: 9
+has_children: true
 ---
 # Student Handbooks
 
