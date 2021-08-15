@@ -3,6 +3,7 @@ layout: default
 title: Homepage
 nav_order: 3
 permalink: /
+nav_exclude: true
 ---
 
 A picture of OU compus
