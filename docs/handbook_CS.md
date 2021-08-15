@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Computer Science
-parent: Handbooks
+nav_exclude: true
 ---
 # Computer Science Ph.D. Student Handbook
 
