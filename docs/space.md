@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computing
+title: Space
 nav_order: 10
 ---
 # Lab space
