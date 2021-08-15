@@ -3,7 +3,10 @@ layout: default
 title: Handbooks
 nav_order: 9
 has_children: true
+permalink: /docs/handbook
 ---
+
+
 # Student Handbooks
 
 ## [Computer Science Ph.D. Student Handbook]({{ site.baseurl }}{% link docs/handbook_CS.md %})
