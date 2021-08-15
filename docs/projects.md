@@ -23,7 +23,7 @@ nav_order: 2
   not known. In this project, we aim to link the metabolisms of prebiotics with specific microorganisms in the gut microbiomes and characterize their interaction
   mechanisms. Our discoveries will enable the development of prebiotics and probiotics with enhanced health benefits. 
 
-  Lab members: Stormi Miller, Yi Xiong, Chongle Pan
+  Lab members: Stormi Miller, Yi Xiong, Chongle Pan.  
   Collaborators: Dr. [Ryan Mueller](https://microbiology.oregonstate.edu/dr-ryan-mueller) at Oregon State Univ.  
   Sponsor: National Institutes of Health.  
 
@@ -36,7 +36,7 @@ nav_order: 2
   whole genome using machine learning. Explainable neural network models are developed to ensure their predictions are trustworthy. Our model predictions will 
   enable precision preventive medicine tailored specifically for individuals based on their disease risks. 
   
-  Lab members: Adrien Badré, Justin Reynolds, Chongle Pan
+  Lab members: Adrien Badré, Justin Reynolds, Chongle Pan.  
   
 - **Computer vision for biomedical imaging**
 
@@ -45,7 +45,7 @@ nav_order: 2
   optical coherence tomography imaging data. Precise needle placement will improve the safety of needle-based surguries, such as epidural anesthesia and 
   percutaneous nephrostomy.
 
-  Lab members: Paul Calle Contreras, Justin Reynolds, Chongle Pan
+  Lab members: Paul Calle Contreras, Justin Reynolds, Chongle Pan.  
   Collaborator: Dr. [Qinggong Tang](http://tanglab.oucreate.com/) at OU
 
 - **Natural text understanding in biomedical informatics** 
@@ -54,7 +54,7 @@ nav_order: 2
   models based on mobile health data and to develop chatbots for real-time intervention. We are developing a smoke-cessation chatbot may provide basic counseling 
   at critical moments and help users resist craving. 
   
-  Lab members: Yunlong Liu, Adrien Badré, Chongle Pan
+  Lab members: Yunlong Liu, Adrien Badré, Chongle Pan.  
   Collaborators: Dr. [Michael Businelle](http://www.businellelab.com) at OU HSC. 
 
 - **Parallel computing for proteomic stable isotope probing**
@@ -63,8 +63,8 @@ nav_order: 2
   In this project, we aim to improve Sipros to achieve more accurate detection of isotopically labeled peptides from shotgun proteomics data. Computing will be
   accelerated with GPU and provided in the clound. This will make proteomic stable isotope probing more accessible for the microbiome community.
 
-  Lab members: Yi Xiong, Dongyu Wang, Chongle Pan
-  Collaborators: Dr. [Xuan Guo](http://www.cse.unt.edu/~xuanguo/) at UNT
+  Lab members: Yi Xiong, Dongyu Wang, Chongle Pan.  
+  Collaborators: Dr. [Xuan Guo](http://www.cse.unt.edu/~xuanguo/) at UNT.  
   Sponsor: Department of Energy, Biological and Environmental Research
 
 ## Completed Projects
