@@ -8,43 +8,43 @@ nav_order: 6
 
 ### **Principle Investigator:**
 
-[**Chongle Pan,**](https://github.com/chonglepan) Associate Professor,  
-School of Compute Science,  
-Department of Microbiology and Plant Biology,  
-University of Oklahoma at Norman  
+- [**Chongle Pan,**](https://github.com/chonglepan) Associate Professor,    
+  School of Compute Science,  
+  Department of Microbiology and Plant Biology,  
+  University of Oklahoma at Norman  
 
 ### **Computer Science Lab Members:**
 
-[**Adrien Badré**](https://github.com/adbadre), Ph.D. Student in Computer Science (2018 ~ )  
-Research Areas: deep learning, explainability, predictive genomics  
-M.S. in Data Science and Analytics (2018), University of Oklahoma  
-M.S. in Computer Science (2018), Institut Supérieur Informatique, de Modélisation et de leurs Applications, France
+- [**Adrien Badré**](https://github.com/adbadre), Ph.D. Student in Computer Science (2018 ~ )  
+  Research Areas: deep learning, explainability, predictive genomics  
+  M.S. in Data Science and Analytics (2018), University of Oklahoma  
+  M.S. in Computer Science (2018), Institut Supérieur Informatique, de Modélisation et de leurs Applications, France
 
-[**Paul Calle**](https://github.com/pcallec), Ph.D. Student in Computer Science (2019 ~ )  
-Research Areas: computer vision, biomedical imaging, AutoML  
-M.S. in Data Science and Analytics (2018), University of Oklahoma
+- [**Paul Calle**](https://github.com/pcallec), Ph.D. Student in Computer Science (2019 ~ )  
+  Research Areas: computer vision, biomedical imaging, AutoML  
+  M.S. in Data Science and Analytics (2018), University of Oklahoma
 
-[**Justin Reynolds**](https://github.com/jcreyn), Ph.D. Student in Computer Science (2019 ~ )  
-Research Areas: predictive genomics, bioinformatics  
-B.S. in Biology with Distinction (2017), President's Honor Roll Awards, University of Oklahoma
+- [**Justin Reynolds**](https://github.com/jcreyn), Ph.D. Student in Computer Science (2019 ~ )  
+  Research Areas: predictive genomics, bioinformatics  
+  B.S. in Biology with Distinction (2017), President's Honor Roll Awards, University of Oklahoma
 
-[**Yunlong Liu**](https://github.com/Alex-ylliu), Ph.D. Student in Computer Science (2021 ~ )  
-Research Areas: natural text understanding, conversational agent  
-M.S. in Computer Science (2018), Kansas State University
+- [**Yunlong Liu**](https://github.com/Alex-ylliu), Ph.D. Student in Computer Science (2021 ~ )  
+  Research Areas: natural text understanding, conversational agent  
+  M.S. in Computer Science (2018), University Of Missouri
 
 ### **Microbiology Lab Members:**
 
-[**Dongyu Wang**](https://github.com/dywang0323), Ph.D. Student in Microbiology (2020 ~ )   
-Research Areas: environmental microbiome  
-M.S. in Microbiology (2018), Shandong University
+- [**Dongyu Wang**](https://github.com/dywang0323), Ph.D. Student in Microbiology (2020 ~ )   
+  Research Areas: environmental microbiome  
+  M.S. in Microbiology (2018), Shandong University
  
-[**Xiong Yi**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
-Research Areas: proteomics  
-M.S. in Microbiology (2020), Chinese Academy of Science
+- [**Xiong Yi**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
+  Research Areas: proteomics  
+  M.S. in Microbiology (2020), Chinese Academy of Science
 
-[**Stormi Miller**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
-Research Areas: human microbiome, prebiotics  
-B.S. in Microbiology (2018), University of Oklahoma
+- [**Stormi Miller**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
+  Research Areas: human microbiome, prebiotics  
+  B.S. in Microbiology (2018), University of Oklahoma
 
 ### **Lab Alumni:**
 
