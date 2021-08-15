@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Space
-nav_order: 10
+nav_order: 5
 ---
 # Lab space
 
