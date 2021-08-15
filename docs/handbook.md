@@ -6,9 +6,9 @@ has_children: true
 ---
 # Student Handbooks
 
-## [Computer Science Ph.D. Student Handbook](/docs/handbook_CS.md)
+## [Computer Science Ph.D. Student Handbook]({{ site.baseurl }}{% link docs/handbook_CS.md %})
 
-## [Microbiology Student Ph.D. Handbook](/docs/handbook_Bio.md)
+## [Microbiology Student Ph.D. Handbook]({{ site.baseurl }}{% link docs/handbook_Bio.md %})
 
 ## General Student Handbook
 
