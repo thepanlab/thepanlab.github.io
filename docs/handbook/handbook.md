@@ -3,6 +3,7 @@ layout: default
 title: Handbooks
 nav_order: 9
 has_children: true
+permalink: /docs/handbook
 ---
 # Student Handbooks
 
