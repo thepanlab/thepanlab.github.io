@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Microbiology
-parent: Handbooks
+nav_exclude: true
 ---
 # Microbiology Ph.D. Student Handbook
 
