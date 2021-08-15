@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Computer Science Handbook
+title: Computer Science
 parent: Handbooks
 ---
 # Computer Science Ph.D. Student Handbook
