@@ -1,3 +1,9 @@
+---
+layout: default
+title: MPBIO 4810/5810: Introduction to Python Programming for Data Analytics
+nav_exclude: true
+---
+
 ## MPBIO 4810/5810: Introduction to Python Programming for Data Analytics
 
 ### Course description:
