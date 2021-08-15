@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MPBIO 4810/5810: Introduction to Python Programming for Data Analytics
+title: 'MPBIO 4810/5810: Introduction to Python Programming for Data Analytics'
 nav_exclude: true
 ---
 
