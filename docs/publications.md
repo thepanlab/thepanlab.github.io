@@ -26,7 +26,7 @@ nav_order: 3
 **Biological Sciences:**
     
   
-- [Phytoplankton exudates and lysates support distinct microbial consortia with specialized metabolic and ecophysiological traits] B. Kieft, **Z. Li**, S. Bryson, R.L. Hettich, **C. Pan**, X. Mayali, R.S. Mueller (Accepted) () **Proceedings of the National Academy of Sciences (PNAS)** 
+- [Phytoplankton exudates and lysates support distinct microbial consortia with specialized metabolic and ecophysiological traits]() B. Kieft, **Z. Li**, S. Bryson, R.L. Hettich, **C. Pan**, X. Mayali, R.S. Mueller (Accepted) **Proceedings of the National Academy of Sciences (PNAS)** 
 
 - [Genome-Resolved Proteomic Stable Isotope Probing of Soil Microbial Communities Using 13CO2 and 13C-Methanol.](https://www.frontiersin.org/articles/10.3389/fmicb.2019.02706/full) **Z. Li**, **Q. Yao**, **X. Guo**, A. Crits-Christoph, M.A. Mayes, W.J. Hervey, S.L. Lebeis, J.F. Banfield, G.B. Hurst, R.L. Hettich, **C. Pan** (2019) **Frontier in Microbiology** 10:2706. doi: 10.3389/fmicb.2019.02706
 
