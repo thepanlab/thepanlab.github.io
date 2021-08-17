@@ -3,12 +3,12 @@ layout: default
 title: Space
 nav_order: 5
 ---
-# Lab space
+# Lab Space
 
 ## Office space at Carson Energy Center 
 
 Address:
-Room 454, Carson Energy Center
+Room 405, Carson Energy Center.  
 202 West Boyd Street,         
 Norman, OK 73019  
 
@@ -22,7 +22,7 @@ Picture of the building
 ## Microbiology lab space at George Lynn Cross Hall
 
 Address:  
-Room 47, George Lynn Cross Hall 
+Room 47, George Lynn Cross Hall.    
 770 Van Vleet Oval,   
 Norman, OK  73019
 
