@@ -5,13 +5,14 @@ nav_order: 3
 ---
 # Publications
 
-### [Full list of publications in Google Scholar](https://scholar.google.com/citations?hl=en&user=m2ORdeYAAAAJ&view_op=list_works&sortby=pubdate)
-
-### [Full list of publications in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Chongle+Pan+%5BAuthor%5D&sort=date)
+### **All Publications:**
+- [On Google Scholar](https://scholar.google.com/citations?hl=en&user=m2ORdeYAAAAJ&view_op=list_works&sortby=pubdate)
+- [On NIH PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Chongle+Pan+%5BAuthor%5D&sort=date)
   
-### Selected Computer Science Publications:
-   
-   
+### **Selected Publications:**
+
+**Computer Science:**
+
 - **A. Badré**, **L. Zhang**, W. Muchero, **J.C. Reynolds**, **C. Pan** (2021) [Deep Neural Network Improves the Estimation of Polygenic Risk Scores for Breast Cancer.](https://www.nature.com/articles/s10038-020-00832-7) **Journal of Human Genetics**, 66(4):359-369. doi: 10.1038/s10038-020-00832-7
 
 - C. Wang, **P. Calle**, N. Ton, Z. Zhang, F. Yan, A.M. Donaldson, N.A. Bradley, Z. Yu, **C. Pan**, Q. Tang (2021) [Deep-learning-aided forward optical coherence tomography endoscope for percutaneous nephrostomy guidance](https://www.osapublishing.org/boe/fulltext.cfm?uri=boe-12-4-2404&id=449681). **Biomedical Optics Express**, 12(4):2404-2418. doi: 10.1364/BOE.421299
@@ -22,7 +23,7 @@ nav_order: 3
 
 - **B. Haider**, **T.-H. Ahn**, B. Bushnell, **J. Chai**, A. Copeland, and **C. Pan**. (2014) [Omega: an Overlap-graph de novo Assembler for Metagenomic](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu395)s, **Bioinformatics** 30, 2717-2722.
   
-### Selected Biological Sciences Publication:
+**Biological Sciences:**
     
   
 - B. Kieft, **Z. Li**, S. Bryson, R.L. Hettich, **C. Pan**, X. Mayali, R.S. Mueller (Accepted) [Phytoplankton exudates and lysates support distinct microbial consortia with specialized metabolic and ecophysiological traits]() **Proceedings of the National Academy of Sciences (PNAS)** 
