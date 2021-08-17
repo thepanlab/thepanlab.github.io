@@ -3,9 +3,9 @@ layout: default
 title: Computing
 nav_order: 6
 ---
-# Computing resources
+# Computing Resources
 
-## Condominium nodes on the [Schooner](https://www.ou.edu/oscer/resources/hpc) supercomputer:
+### **Condominium nodes on the [Schooner](https://www.ou.edu/oscer/resources/hpc) supercomputer:**
 
 
 - **One dual-A100 GPU node** (Nov. 2021)  
@@ -34,14 +34,14 @@ nav_order: 6
   - [How to submit batch jobs to our partition](https://github.com/thepanlab/supercomputers/blob/master/Slurm_basics.md)
   - [How to run Jupyter notebooks on our nodes](https://github.com/thepanlab/supercomputers/blob/master/Use_jupyter_notebook.md)
 
-## Data storage
+### **Data storage:**
   - local SSD space on compute nodes (/lwork)
   - 2 TB disk space on parallel file system (/work/omicsbio)
   - 10 TB tape archival space
 
   [How to manage the data and optimize the I/O](https://github.com/thepanlab/supercomputers)
 
-## Computer servers
+### **Computer servers**
 
 - **Thunder GPU server** (Dec. 2020)  
   For interactive deep learning on two RTX 3090 GPUs.    
