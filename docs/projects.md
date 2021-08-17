@@ -4,7 +4,7 @@ title: Projects
 nav_order: 1
 ---
 
-## Microbiology Projects
+### **Microbiology Projects:**
 
 - **Omics analysis and modeling of wetland communities**  
   
@@ -27,7 +27,7 @@ nav_order: 1
   Collaborators: Dr. [Ryan Mueller](https://microbiology.oregonstate.edu/dr-ryan-mueller) at Oregon State Univ.  
   Sponsor: National Institutes of Health.  
 
-## Computer Science Projects
+### **Computer Science Projects:**
 
 - **Explainable machine learning for predictive genomics**
 
