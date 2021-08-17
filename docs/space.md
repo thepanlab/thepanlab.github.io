@@ -7,7 +7,7 @@ nav_order: 5
 
 ## Office space at Carson Energy Center 
 
-Address:
+Address:   
 Room 405, Carson Energy Center.  
 202 West Boyd Street,         
 Norman, OK 73019  
