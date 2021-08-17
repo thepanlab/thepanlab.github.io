@@ -9,7 +9,7 @@ nav_order: 3
 
 ### [Full list of publications in PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Chongle+Pan+%5BAuthor%5D&sort=date)
   
-### Five Selected Publications in Computer Science Research:
+### Selected Computer Science Publications:
    
    
 - **A. Badré**, **L. Zhang**, W. Muchero, **J.C. Reynolds**, **C. Pan** (2021) [Deep Neural Network Improves the Estimation of Polygenic Risk Scores for Breast Cancer.](https://www.nature.com/articles/s10038-020-00832-7) **Journal of Human Genetics**, 66(4):359-369. doi: 10.1038/s10038-020-00832-7
@@ -22,7 +22,7 @@ nav_order: 3
 
 - **B. Haider**, **T.-H. Ahn**, B. Bushnell, **J. Chai**, A. Copeland, and **C. Pan**. (2014) [Omega: an Overlap-graph de novo Assembler for Metagenomic](https://academic.oup.com/bioinformatics/article-lookup/doi/10.1093/bioinformatics/btu395)s, **Bioinformatics** 30, 2717-2722.
   
-### Five Selected Publications in Biological Sciences Research:
+### Selected Biological Sciences Publication:
     
   
 - B. Kieft, **Z. Li**, S. Bryson, R.L. Hettich, **C. Pan**, X. Mayali, R.S. Mueller (Accepted) [Phytoplankton exudates and lysates support distinct microbial consortia with specialized metabolic and ecophysiological traits]() **Proceedings of the National Academy of Sciences (PNAS)** 
