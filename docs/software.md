@@ -9,19 +9,16 @@ nav_order: 4
 - [**Our lab github**](https://github.com/thepanlab)
 
 ### **Selected software:**
-
+\
 **Deep learning for predictive genomics**
-
   - [**GattacaNet**](https://github.com/thepanlab/GattacaNet) for polygenic risk scores. [Publication](https://www.nature.com/articles/s10038-020-00832-7)
   - [**LINA**](https://github.com/thepanlab/LINA) for first-order and second-order model interpretation.  
 
 **Computer vision for biomedical imaging**
-
   - [**Percutaneous nephrostomy OCT**](https://github.com/thepanlab/FOCT_kidney). [Publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8086467/)
   - [**Epidural anesthesia OCT**](https://github.com/thepanlab/Endoscopic_OCT_Epidural).  
 
 **Parallel computing for proteomics and metagenomics**
-
   - [**Sipros**](https://github.com/thepanlab/Sipros) for proteomic stable isotope probing. [Publication](https://academic.oup.com/bioinformatics/article/34/5/795/4209993)  
   - [**Seq2MAG**](https://github.com/thepanlab/Seq2MAG) for metagenomics workflow.
 
