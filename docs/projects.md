@@ -5,30 +5,7 @@ nav_order: 1
 ---
 # Projects  
 
-### **Microbiology Projects:**
-
-- **Omics analysis and modeling of wetland communities**  
-  
-  The wetland ecosystems are responsible for one third of global emission of methane, a potent greenhouse gas. The methane emission from wetlands will be 
-  perturbed by climate changes, including seawater intrusion and frequent droughts. In this project, we aim to characterize and model the ecosystem-scale 
-  biogeochemical fluxes in estuarine wetlands and lacustrine wetlands under climate changes. Our approaches include proteomic stable isotope probing, 
-  meta-omics analysis, and computational modeling. Our deliverables are predictive models of wetland communities to inform global Earth system models.  
-  
-  Lab members: Dongyu Wang, Yi Xiong, Chongle Pan.  
-  Collaborators: Dr. [Mari Winkler](http://www.winklerlab.com) at UW Seattle.  
-  Sponsor: Department of Energy, Biological and Environmental Research.  
-
-- **Prebiotics and protiobics in humane microbiomes**
-
-  Human microbiomes play important roles in our health. While prebiotics and probiotics have been shown to improve many health outcomes, their mechanisms are
-  not known. In this project, we aim to link the metabolisms of prebiotics with specific microorganisms in the gut microbiomes and characterize their interaction
-  mechanisms. Our discoveries will enable the development of prebiotics and probiotics with enhanced health benefits. 
-
-  Lab members: Stormi Miller, Yi Xiong, Chongle Pan.  
-  Collaborators: Dr. [Ryan Mueller](https://microbiology.oregonstate.edu/dr-ryan-mueller) at Oregon State Univ.  
-  Sponsor: National Institutes of Health.  
-
-### **Computer Science Projects:**
+### **Computer Science:**
 
 - **Explainable machine learning for predictive genomics**
 
@@ -67,6 +44,31 @@ nav_order: 1
   Lab members: Yi Xiong, Dongyu Wang, Chongle Pan.  
   Collaborators: Dr. [Xuan Guo](http://www.cse.unt.edu/~xuanguo/) at UNT.  
   Sponsor: Department of Energy, Biological and Environmental Research
+  
+
+### **Microbiology:**
+
+- **Characterization and modeling of wetland sediment microbiomes**  
+  
+  The wetland ecosystems are responsible for one third of global emission of methane, a potent greenhouse gas. The methane emission from wetlands will be 
+  perturbed by climate changes, including seawater intrusion and frequent droughts. In this project, we aim to characterize and model the ecosystem-scale 
+  biogeochemical fluxes in estuarine wetlands and lacustrine wetlands under climate changes. Our approaches include synthetic microbiomes, proteomic stable 
+  isotope probing, integrated -omics, and computational modeling. Our deliverables are mechanistic models of wetland communities to inform 
+  global Earth system models.  
+  
+  Lab members: Dongyu Wang, Yi Xiong, Chongle Pan.  
+  Collaborators: Dr. [Mari Winkler](http://www.winklerlab.com) at UW Seattle.  
+  Sponsor: Department of Energy, Biological and Environmental Research.  
+
+- **Prebiotics and protiobics in humane microbiomes**
+
+  Human microbiomes play important roles in our health. While prebiotics and probiotics have been shown to improve many health outcomes, their mechanisms are
+  not known. In this project, we aim to link the metabolisms of prebiotics with specific microorganisms in the gut microbiomes and characterize their interaction
+  mechanisms. Our discoveries will enable the development of prebiotics and probiotics with enhanced health benefits. 
+
+  Lab members: Stormi Miller, Yi Xiong, Chongle Pan.  
+  Collaborators: Dr. [Ryan Mueller](https://microbiology.oregonstate.edu/dr-ryan-mueller) at OSU  
+  Sponsor: National Institutes of Health.  
 
 ## Completed Projects
 - High-performance bioinformatics workflow for integrative ‘-omics’ data analytics (2016 ~ 2019) funded by DOD
