@@ -22,5 +22,8 @@ You must complete the following [pre-requisite courses](http://www.ou.edu/coe/cs
 
 ## ACR
 
+> Follow this [link] (https://www.ou.edu/gradcollege/forms) to find the official OU ACR form which is to be submitted through the OU Graduate College's online portal. After submitting the ACR to the graduate college, it should be approved by the graduate college, CS liason, and the committee itself. As of recent, there is no official meeting required with the committee, but it is recommended so you can get know your committee members who can play a role in determining your fate as a doctoral candidate. 
+> The ACR should be completed ASAP, but there is no deadline. It is suggested that the ACR form is completed by the end of your first year in the doctoral CS doctoral program. 
+
 ## Exam
 
