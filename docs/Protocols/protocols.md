@@ -17,7 +17,9 @@ permalink: /docs/Protocols
 - [How to process metagenomic shotgun sequencing data](https://github.com/thepanlab/Seq2MAG)
 
 ### **Biology lab**
-- [How to extract proteins from general samples]()
-- [How to prepare label-free proteomics samples]()
-- [How to prepare TMT-labeled proteomics samples]()
+- [How to extract proteins from general samples]({{ site.baseurl }}{% link docs/Protocols/extract proteins.md %})
+- [How to prepare label-free proteomics samples]({{ site.baseurl }}{% link docs/Protocols/prepare label-free proteomics samples.md %})
+- [How to prepare TMT-labeled proteomics samples]({{ site.baseurl }}{% link docs/Protocols/prepare TMT-labeled proteomics samples.md %})
+- [How to quantify residual cellulose]({{ site.baseurl }}{% link docs/Protocols/quantify residual cellulose.md %})
+- [revive_cultivate microorganisms of wetland co-culture and the majore receipt]({{ site.baseurl }}{% link docs/Protocols/Receipts.md %})
 
