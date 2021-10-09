@@ -12,4 +12,5 @@ The following two courses are offered by Dr. Pan in the Spring semester and the 
 
 ### **Self-teaching modules:** 
 The following modules are assembled in the Pan lab for self-teaching on important topics:
+- [Natural language processing with deep learning]({{ site.baseurl }}{% link docs/Teaching/NLP_courses.md %}))
 - [How does a Transformer model work]()
