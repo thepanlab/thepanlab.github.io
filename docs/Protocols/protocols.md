@@ -23,4 +23,3 @@ permalink: /docs/Protocols
 - [How to quantify residual cellulose]({{ site.baseurl }}{% link docs/Protocols/quantify residual cellulose.md %})
 - [revive_cultivate microorganisms of wetland co-culture and the majore receipt]({{ site.baseurl }}{% link docs/Protocols/Receipts.md %})
 - [Bacterial strain proteome sample preparation]({{ site.baseurl }}{% link docs/Protocols/Proteomics_sample_preparation XYZ.md %})
-
