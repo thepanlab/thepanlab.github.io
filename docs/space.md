@@ -17,7 +17,7 @@ nav_order: 5
 
 Picture of the office inside
 
-Picture of the building
+![Picture of the building](/assets/images/CEC building.jpeg)
 
 ### **Microbiology lab space at George Lynn Cross Hall**
 
