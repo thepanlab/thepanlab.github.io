@@ -15,7 +15,8 @@ nav_order: 5
 
 
 
-Picture of the office inside
+Picture of the CS lab
+![Picture of the lab](/assets/images/cs lab.png)
 Picture of Carson Energy Center
 ![Picture of the building](/assets/images/CEC building.jpeg)
 
@@ -27,6 +28,7 @@ Picture of Carson Energy Center
   Norman, OK  73019
 
 
-Picture of the lab inside
+Picture of the Microbiology lab
+![Picture of the lab](/assets/images/micbio lab.png)
 Picture of George Lynn Cross Hall
 ![Picture of the building](/assets/images/George Lynn Cross Hall.jpeg)
