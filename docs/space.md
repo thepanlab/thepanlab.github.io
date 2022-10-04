@@ -29,4 +29,4 @@ Picture of the office inside
 
 Picture of the lab inside
 
-Picture of the building
+![Picture of the building](/assets/images/George Lynn Cross Hall.jpeg)
