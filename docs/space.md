@@ -16,7 +16,7 @@ nav_order: 5
 
 
 Picture of the office inside
-
+Picture of Carson Energy Center
 ![Picture of the building](/assets/images/CEC building.jpeg)
 
 ### **Microbiology lab space at George Lynn Cross Hall**
@@ -28,5 +28,5 @@ Picture of the office inside
 
 
 Picture of the lab inside
-
+Picture of George Lynn Cross Hall
 ![Picture of the building](/assets/images/George Lynn Cross Hall.jpeg)
