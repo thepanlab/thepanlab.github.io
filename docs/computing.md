@@ -8,12 +8,11 @@ nav_order: 6
 ### **Condominium nodes on the [Schooner](https://www.ou.edu/oscer/resources/hpc) supercomputer:**
 
 - **One dual-A100 GPU node** (Nov. 2021)  
-  For deep learning on two A100 GPUs.  
   Node ID: TBD.   
   CPUs: dual 32-core AMD EPYC Rome 7452.   
   GPUs: dual NVIDIA A100 40 GB.  
   RAM: 256 GB.  
-  Disk: dual 960 GB SSD vSAS, RAID1.  
+  Disk: dual 960 GB SSD vSAS, RAID1  
 
 - **Five Cascade Lake nodes** (Jun. 2019)   
   Node ID: c657, c658, c659, c660 and c661.  
@@ -41,7 +40,6 @@ nav_order: 6
 ### **Computer servers**
 
 - **Thunder GPU server** (Dec. 2020)  
-  For interactive deep learning on two RTX 3090 GPUs.    
   URL: thunder.cs.nor.ou.edu (SSH in OU intranet).  
   CPUs: AMD Ryzen Threadripper 3960X, 24 cores   
   GPUs: dual RTX 3090 24 GB.  
@@ -50,20 +48,18 @@ nav_order: 6
   [How to use Thunder](https://github.com/thepanlab/supercomputers/blob/master/thunder/thunder_tensorflow_gpu_conda.md).  
 
 - **Laker GPU server** (May. 2022)  
-  For interactive deep learning on two RTX A6000 GPUs.    
   URL: laker.cs.nor.ou.edu (SSH in OU intranet).  
   CPUs: AMD Ryzen Threadripper Pro 3955WX, 16 cores, 3.9 GHz    
-  GPUs: dual NVIDIA RTX A6000 48 GB with NVLink 
+  GPUs: dual NVIDIA RTX A6000 48 GB with NVLink   
   RAM: 256 GB  
   Disk: 3.84 TB SSD (NVMe)  
 
 - **Blazer GPU server** (Nov. 2022)  
-  For interactive deep learning on two RTX A6000 GPUs.    
   URL: laker.cs.nor.ou.edu (SSH in OU intranet).  
   CPUs: AMD Ryzen Threadripper PRO 5965WX, 24 cores, 3.8 GHz   
-  GPUs: dual NVIDIA RTX A6000 48 GB with NVLink 
+  GPUs: dual NVIDIA RTX A6000 48 GB with NVLink   
   RAM: 512GB  
-  Disk: 2 TB M.2 NVMe PCIe 4.0 SSD + 8TB 7200RPM 256MB CACHE 3.5IN SATA HDD ( DATA )
+  Disk: 2 TB M.2 NVMe PCIe 4.0 SSD + 8TB 7200RPM 256MB CACHE 3.5IN SATA HDD
 
 - **Virtual machines** on the [OU cloud](https://www.ou.edu/oscer/resources/our_cloud)  
   [Booming web server](http://booming.oscer.ou.edu)  
