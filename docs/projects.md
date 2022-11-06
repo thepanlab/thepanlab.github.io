@@ -3,18 +3,9 @@ layout: default
 title: Projects
 nav_order: 1
 ---
-# Projects  
+# Major Projects  
 
-### **Computer Science:**
-
-- **Explainable machine learning for predictive genomics**
-
-  Many complex diseases, including cancers and diabetes, are caused by a combination of genetic factors and environmental factors. The genetic risk of an individual
-  for a complex disease is determined by their genome. In this project, we aim to improve the prediction of complex disease occurance in individuals from their 
-  whole genome using machine learning. Explainable neural network models are developed to ensure their predictions are trustworthy. Our model predictions will 
-  enable precision preventive medicine tailored specifically for individuals based on their disease risks. 
-  
-  Lab members: Adrien Badré, Justin Reynolds, Chongle Pan.  
+### **Machine learning:**
   
 - **Computer vision for biomedical imaging**
 
@@ -24,18 +15,44 @@ nav_order: 1
   percutaneous nephrostomy.
 
   Lab members: Paul Calle Contreras, Justin Reynolds, Chongle Pan.  
-  Collaborator: Dr. [Qinggong Tang](http://tanglab.oucreate.com/) at OU
+  Funding: Co-I in [1R01DK133717](https://reporter.nih.gov/search/CFJB1sFbw0O0rkY76X28nw/project-details/10501992) from NIH NIDDK.  
+  Collaborator: Dr. [Qinggong Tang](http://tanglab.oucreate.com/) at OU.  
+  Selected publications: [[Wang et al 2021](https://pubmed.ncbi.nlm.nih.gov/33996237/)], [[Wang et al 2022](https://pubmed.ncbi.nlm.nih.gov/35103420/)] 
 
-- **Natural text understanding in biomedical informatics** 
+- **Explainable machine learning for predictive genomics**
+
+  Many complex diseases, including cancers and diabetes, are caused by a combination of genetic factors and environmental factors. The genetic risk of an individual
+  for a complex disease is determined by their genome. In this project, we aim to improve the prediction of complex disease occurance in individuals from their 
+  whole genome using machine learning. Explainable neural network models are developed to ensure their predictions are trustworthy. Our model predictions will 
+  enable precision preventive medicine tailored specifically for individuals based on their disease risks. 
+  
+  Lab members: Adrien Badré, Justin Reynolds, Chongle Pan.  
+  Selected publications: [[Badré et al 2021](https://pubmed.ncbi.nlm.nih.gov/33009504/)], [[Badré and Pan 2022](https://pubmed.ncbi.nlm.nih.gov/35462722/)]
+  
+- **Natural text generation for biomedical behavior intervention** 
 
   Mobile technologies, such as smartphones and smart watches, allows real-time health monitoring and care provision. In this project, we aim to develop predictive
   models based on mobile health data and to develop chatbots for real-time intervention. We are developing a smoke-cessation chatbot may provide basic counseling 
   at critical moments and help users resist craving. 
   
   Lab members: Yunlong Liu, Adrien Badré, Chongle Pan.  
-  Collaborators: Dr. [Michael Businelle](http://www.businellelab.com) at OU HSC. 
+  Collaborators: Dr. [Michael Businelle](http://www.businellelab.com) and Dr. [Jordan Neil](https://medicine.ouhsc.edu/Academic-Departments/Family-and-Preventive-Medicine/Research/Research-Faculty-Profiles/jordan-neil-phd-1) at OU HSC. 
+  
 
-- **Parallel computing for proteomic stable isotope probing**
+### **Microbiota:**
+ 
+- **Prebiotics and protiobics in humane gut microbiota**
+
+  Human microbiomes play important roles in our health. While prebiotics and probiotics have been shown to improve many health outcomes, their mechanisms are
+  not known. In this project, we aim to link the metabolisms of prebiotics with specific microorganisms in the gut microbiomes and characterize their interaction
+  mechanisms. Our discoveries will enable the development of prebiotics and probiotics with enhanced health benefits. 
+
+  Lab members: Jessica Arlington, Yi Xiong, Chongle Pan.  
+  Collaborators: Dr. [Ryan Mueller](https://microbiology.oregonstate.edu/dr-ryan-mueller) and Dr. [Jed Friedman](https://medicine.ouhsc.edu/academic-departments/physiology/faculty/jacob-e-jed-friedman-phd)  
+  Funding: PI in [5R01AT011618](https://reporter.nih.gov/search/t-5Gvs6MU0mf0CDCrsTC0Q/project-details/10463696) from NIH NCCIH and NIGMS.  
+  Selected publications: [[Zhang et al 2022](https://pubmed.ncbi.nlm.nih.gov/35729161/)], [[Young et al 2015](https://pubmed.ncbi.nlm.nih.gov/26077811/)]
+  
+ - **Parallel algorithms for proteomic stable isotope probing**
 
   Proteomic stable isotope probing are developed in our lab to track the flow of carbon and nitrogen from a substrate to its consumers in a complex community.
   In this project, we aim to improve Sipros to achieve more accurate detection of isotopically labeled peptides from shotgun proteomics data. Computing will be
@@ -43,12 +60,10 @@ nav_order: 1
 
   Lab members: Yi Xiong, Dongyu Wang, Chongle Pan.  
   Collaborators: Dr. [Xuan Guo](http://www.cse.unt.edu/~xuanguo/) at UNT.  
-  Sponsor: Department of Energy, Biological and Environmental Research
+  Funding: PI in [5R01AT011618](https://reporter.nih.gov/search/t-5Gvs6MU0mf0CDCrsTC0Q/project-details/10463696) from NIH NCCIH and NIGMS.  
+  Selected publications: [[Li et al 2019](https://pubmed.ncbi.nlm.nih.gov/31866955/)], [[Guo et al 2018](https://pubmed.ncbi.nlm.nih.gov/29028897/)]
   
-
-### **Microbiology:**
-
-- **Characterization and modeling of wetland sediment microbiomes**  
+  - **Characterization and modeling of environmental microbiota**  
   
   The wetland ecosystems are responsible for one third of global emission of methane, a potent greenhouse gas. The methane emission from wetlands will be 
   perturbed by climate changes, including seawater intrusion and frequent droughts. In this project, we aim to characterize and model the ecosystem-scale 
@@ -58,17 +73,8 @@ nav_order: 1
   
   Lab members: Dongyu Wang, Yi Xiong, Chongle Pan.  
   Collaborators: Dr. [Mari Winkler](http://www.winklerlab.com) at UW Seattle.  
-  Sponsor: Department of Energy, Biological and Environmental Research.  
-
-- **Prebiotics and protiobics in humane microbiomes**
-
-  Human microbiomes play important roles in our health. While prebiotics and probiotics have been shown to improve many health outcomes, their mechanisms are
-  not known. In this project, we aim to link the metabolisms of prebiotics with specific microorganisms in the gut microbiomes and characterize their interaction
-  mechanisms. Our discoveries will enable the development of prebiotics and probiotics with enhanced health benefits. 
-
-  Lab members: Stormi Miller, Yi Xiong, Chongle Pan.  
-  Collaborators: Dr. [Ryan Mueller](https://microbiology.oregonstate.edu/dr-ryan-mueller) at OSU  
-  Sponsor: National Institutes of Health.  
+  Funding: Department of Energy, Biological and Environmental Research.  
+  Selected publications: [[Yao et al 2018](https://pubmed.ncbi.nlm.nih.gov/29358607/)], [[Li et al 2017](https://pubmed.ncbi.nlm.nih.gov/27871150/)]
 
 ## Completed Projects
 - High-performance bioinformatics workflow for integrative ‘-omics’ data analytics (2016 ~ 2019) funded by DOD
