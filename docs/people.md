@@ -42,9 +42,9 @@ nav_order: 2
   Research Areas: proteomics  
   M.S. in Microbiology (2020), Chinese Academy of Science
 
-- [**Stormi Miller**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
+- [**Jessica Arlington**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2022 ~ )  
   Research Areas: human microbiome, prebiotics  
-  B.S. in Microbiology (2018), University of Oklahoma
+  B.S. in Microbiology (2022), Oklahoma State University
 
 ### **Lab Alumni:**
 
