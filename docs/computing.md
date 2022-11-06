@@ -62,7 +62,7 @@ nav_order: 6
   URL: laker.cs.nor.ou.edu (SSH in OU intranet).  
   CPUs: AMD Ryzen Threadripper PRO 5965WX, 24 cores, 3.8 GHz   
   GPUs: dual NVIDIA RTX A6000 48 GB with NVLink 
-  RAM: 512GB
+  RAM: 512GB  
   Disk: 2 TB M.2 NVMe PCIe 4.0 SSD + 8TB 7200RPM 256MB CACHE 3.5IN SATA HDD ( DATA )
 
 - **Virtual machines** on the [OU cloud](https://www.ou.edu/oscer/resources/our_cloud)  
