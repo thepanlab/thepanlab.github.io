@@ -19,7 +19,7 @@ nav_order: 4
 
 - **Parallel computing for proteomics and metagenomics**
   - [**Sipros**](https://github.com/thepanlab/Sipros) for proteomic stable isotope probing. [Publication](https://academic.oup.com/bioinformatics/article/34/5/795/4209993)  
-  - [**Seq2MAG**](https://github.com/thepanlab/Seq2MAG) for metagenomics workflow.
+  - [**Seq2MAG**](https://github.com/thepanlab/Seq2MAG) for metagenomics workflow. [Publication](https://www.nature.com/articles/s41467-022-31227-1)
 
 ### **Past software:**
   - [**Omega**](http://omega.omicsbio.org) for metagenome assembly. [Publication](https://academic.oup.com/bioinformatics/article/30/19/2717/2422265)
