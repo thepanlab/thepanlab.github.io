@@ -3,7 +3,7 @@ layout: default
 title: Group Photo
 nav_order: 11
 ---
-# Photos of the Us
+# Photos of us
 
 ### **Birthday cake cutting - September/22**  
 
