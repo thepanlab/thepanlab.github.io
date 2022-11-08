@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Space
-nav_order: 5
+title: Group Photo
+nav_order: 11
 ---
 # Photos of the Us
 
