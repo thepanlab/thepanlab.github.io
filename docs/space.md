@@ -29,6 +29,6 @@ Picture of Carson Energy Center
 
 
 Picture of the Microbiology lab
-![Picture of the lab](/assets/images/micbio lab.png)
+![Picture of the lab](/assets/images/MicrosoftTeams-image.png)
 Picture of George Lynn Cross Hall
 ![Picture of the building](/assets/images/George Lynn Cross Hall.jpeg)
