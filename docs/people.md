@@ -8,10 +8,9 @@ nav_order: 2
 
 ### **Principle Investigator:**
 
-- [**Chongle Pan,**](https://github.com/chonglepan) Associate Professor,    
+- [**Chongle Pan,**](https://github.com/chonglepan)  Professor,    
   School of Compute Science,  
-  Department of Microbiology and Plant Biology,  
-  University of Oklahoma at Norman  
+  Department of Computer Science and Biomedical Engineering. 
 
 ### **Computer Science Lab Members:**
 
