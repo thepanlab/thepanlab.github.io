@@ -29,14 +29,6 @@ nav_order: 1
   Lab members: Adrien Badré, Justin Reynolds, Chongle Pan.  
   Selected publications: [[Badré et al 2021](https://pubmed.ncbi.nlm.nih.gov/33009504/)], [[Badré and Pan 2022](https://pubmed.ncbi.nlm.nih.gov/35462722/)]
   
-- **Natural text generation for biomedical behavior intervention** 
-
-  Mobile technologies, such as smartphones and smart watches, allows real-time health monitoring and care provision. In this project, we aim to develop predictive
-  models based on mobile health data and to develop chatbots for real-time intervention. We are developing a smoke-cessation chatbot may provide basic counseling 
-  at critical moments and help users resist craving. 
-  
-  Lab members: Yunlong Liu, Adrien Badré, Chongle Pan.  
-  Collaborators: Dr. [Michael Businelle](http://www.businellelab.com) and Dr. [Jordan Neil](https://medicine.ouhsc.edu/Academic-Departments/Family-and-Preventive-Medicine/Research/Research-Faculty-Profiles/jordan-neil-phd-1) at OU HSC. 
   
 
 ### **Microbiota:**
