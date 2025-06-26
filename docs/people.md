@@ -9,8 +9,9 @@ nav_order: 2
 ### **Principle Investigator:**
 
 - [**Chongle Pan,**](https://github.com/chonglepan)  Professor,    
-  School of Compute Science,  
-  Department of Computer Science and Biomedical Engineering. 
+  School of Compute Science,
+  Stephenson School of Biomedical Engineering,
+  University of Oklahoma at Norman
 
 ### **Computer Science Lab Members:**
 
