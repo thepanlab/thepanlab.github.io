@@ -51,5 +51,7 @@ This research has been approved by the University of Oklahoma, Norman Campus IRB
 ### Verbal opt-in transcript sample:
 **AI Agent**: “As part of our service, The Pan Lab can send you automated monthly text alerts. You will receive up to 100 messages per month. Message & data rates may apply. You can reply STOP at any time to cancel, or HELP for help. OU Privacy Policy is available at [Policy](https://www.ou.edu/marcomm/web/privacy-policy)
 . Would you like to receive these messages?”
+
 **Participant**: “Yes.”
+
 **AI Agent**: “Thank you, you are now enrolled.”
