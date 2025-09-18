@@ -47,4 +47,9 @@ Yunlong Liu at 913-227-5069 or yl.l@ou.edu.
 You can also contact the University of Oklahoma – Norman Campus Institutional Review Board (OU-NC IRB) at 405-325-8110 or irb@ou.edu if you have questions about your rights as a research participant, concerns, or complaints about the research and wish to talk to someone other than the researcher(s) or if you cannot reach the researcher(s).
 
 This research has been approved by the University of Oklahoma, Norman Campus IRB. IRB Number: #15693 Approval date: Aug 7, 2023
- 
+
+### Verbal opt-in transcript sample:
+**AI Agent**: “As part of our service, The Pan Lab can send you automated monthly text alerts. You will receive up to 100 messages per month. Message & data rates may apply. You can reply STOP at any time to cancel, or HELP for help. OU Privacy Policy is available at [Policy](https://www.ou.edu/marcomm/web/privacy-policy)
+. Would you like to receive these messages?”
+**Participant**: “Yes.”
+**AI Agent**: “Thank you, you are now enrolled.”
