@@ -8,43 +8,62 @@ nav_order: 2
 
 ### **Principle Investigator:**
 
-- [**Chongle Pan,**](https://github.com/chonglepan)  Professor,    
-  School of Compute Science,
-  Stephenson School of Biomedical Engineering,
-  University of Oklahoma at Norman
+- [**Chongle Pan,**](https://github.com/chonglepan)  Professor,      
+  School of Compute Science,  
+  Stephenson School of Biomedical Engineering,  
+  University of Oklahoma at Norman  
 
 ### **Computer Science Lab Members:**
 
-- [**Adrien Badré**](https://github.com/adbadre), Ph.D. Student in Computer Science (2018 ~ )  
-  Research Areas: deep learning, explainability, predictive genomics  
-  M.S. in Data Science and Analytics (2018), University of Oklahoma  
-  M.S. in Computer Science (2018), Institut Supérieur Informatique, de Modélisation et de leurs Applications, France
+- [**Adrien Badré**](https://github.com/adbadre), 2018 ~ 2023  
+  Degree: Ph.D. in Computer Science, OU  
+  Position after graduation: Senior Data Scientist at Novartis Inc.  
+  Current position: same  
+  Dissertation title: Interpretable deep neural networks for more accurate predictive genomics and genome-wide association studies  
 
-- [**Paul Calle**](https://github.com/pcallec), Ph.D. Student in Computer Science (2019 ~ )  
-  Research Areas: computer vision, biomedical imaging, AutoML  
-  M.S. in Data Science and Analytics (2018), University of Oklahoma
+- [**Paul Calle**](https://github.com/pcallec), 2019 ~ 2025  
+  Degree: Ph.D. in Computer Science, OU  
+  Position after graduation: Postdoc at OU.  
+  Current position: same  
+  Dissertation title: Healthcare Innovations Empowered by Discriminative and Generative Artificial Intelligence.  
 
-- [**Justin Reynolds**](https://github.com/jcreyn), Ph.D. Student in Computer Science (2019 ~ )  
-  Research Areas: predictive genomics, bioinformatics  
-  B.S. in Biology with Distinction (2017), President's Honor Roll Awards, University of Oklahoma
+- [**Justin Reynolds**](https://github.com/jcreyn), 2019 ~ Present  
+     Ph.D. student in Computer Science, OU  
 
-- [**Yunlong Liu**](https://github.com/Alex-ylliu), Ph.D. Student in Computer Science (2021 ~ )  
-  Research Areas: natural text understanding, conversational agent  
-  M.S. in Computer Science (2018), University Of Missouri
+- [**Yunlong Liu**](https://github.com/Alex-ylliu), 2021 ~ Present  
+Ph.D. student in Computer Science, OU
+
+- [**Haoyang Cui**](), 2023 ~ Present  
+Ph.D. student in Computer Science, OU  
+
+- [**Sinaro Ly**](), 2024 ~ Present    
+Ph.D. student in Computer Science, OU 
+
+- [**Averi J. Bates**](), 2025 ~ Present  
+Ph.D. student in Computer Science, OU  
+
 
 ### **Microbiology Lab Members:**
 
-- [**Dongyu Wang**](https://github.com/dywang0323), Ph.D. Student in Microbiology (2020 ~ )   
-  Research Areas: environmental microbiome  
-  M.S. in Microbiology (2018), Shandong University
+- [**Dongyu Wang**](https://github.com/dywang0323), 2020 ~ 2024
+  Degree: Ph.D. student in Microbiology, OU   
+  Position after graduation: Postdoc at the Department of Biostatistics in Harvard T.H. Chan School of Public Health  
+  Current position: same  
+  Dissertation title: Metabolic Dependencies Drive Species Interactions in the Microbial Communities    
  
-- [**Xiong Yi**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2021 ~ )  
-  Research Areas: proteomics  
-  M.S. in Microbiology (2020), Chinese Academy of Science
+- [**Xiong Yi**](https://github.com/thepanlab), 2020 ~ Present  
+Ph.D. student in Microbiology, OU
 
-- [**Jessica Arlington**](https://github.com/thepanlab), Ph.D. Student in Microbiology (2022 ~ )  
-  Research Areas: human microbiome, prebiotics  
-  B.S. in Microbiology (2022), Oklahoma State University
+
+### **Biomedical Engineering Members:**
+
+- [**Yan Cui**](), 2025 ~ Present  
+Ph.D. student in Biomedical Engineering, OU  
+
+### **Data Science and Analytics Members:**
+
+- [**Penghua Wang**](), 2023 ~ Present  
+Ph.D. student in Data Science and Analytics, OU  
 
 ### **Lab Alumni:**
 
