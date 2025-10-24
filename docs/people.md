@@ -15,18 +15,6 @@ nav_order: 2
 
 ### **Computer Science Lab Members:**
 
-- [**Adrien Badré**](https://github.com/adbadre), 2018 ~ 2023  
-  Degree: Ph.D. in Computer Science, OU  
-  Position after graduation: Senior Data Scientist at Novartis Inc.  
-  Current position: same  
-  Dissertation title: Interpretable deep neural networks for more accurate predictive genomics and genome-wide association studies  
-
-- [**Paul Calle**](https://github.com/pcallec), 2019 ~ 2025  
-  Degree: Ph.D. in Computer Science, OU  
-  Position after graduation: Postdoc at OU.  
-  Current position: same  
-  Dissertation title: Healthcare Innovations Empowered by Discriminative and Generative Artificial Intelligence.  
-
 - [**Justin Reynolds**](https://github.com/jcreyn), 2019 ~ Present  
      Ph.D. student in Computer Science, OU  
 
@@ -43,13 +31,7 @@ Ph.D. student in Computer Science, OU
 Ph.D. student in Computer Science, OU  
 
 
-### **Microbiology Lab Members:**
-
-- [**Dongyu Wang**](https://github.com/dywang0323), 2020 ~ 2024
-  Degree: Ph.D. student in Microbiology, OU   
-  Position after graduation: Postdoc at the Department of Biostatistics in Harvard T.H. Chan School of Public Health  
-  Current position: same  
-  Dissertation title: Metabolic Dependencies Drive Species Interactions in the Microbial Communities    
+### **Microbiology Lab Members:**  
  
 - [**Xiong Yi**](https://github.com/thepanlab), 2020 ~ Present  
 Ph.D. student in Microbiology, OU
@@ -75,3 +57,12 @@ Ph.D. student in Data Science and Analytics, OU
   * [**Xuan Guo**](https://www.linkedin.com/in/xuan-guo-7b590886), Postdoc in the Pan lab (2015 ~ 2017), then Assistant Professor at the Department of Computer Sciences in the University of North Texas
   * [**Zhou Li**](https://scholar.google.com/citations?hl=en&user=-IOfp1gAAAAJ&view_op=list_works&sortby=pubdate), Ph.D. student and Postdoc in the Pan lab (2009~2018), then Senior Scientist at Pfizer Inc.
   * [**Li Zhang**](https://orcid.org/0000-0002-7862-6690), Postdoc in the Pan lab (2019 ~ 2020), then Assistant Professor at Xinxiang Medical University
+
+* [**Dongyu Wang**](https://github.com/dywang0323), Ph.D. in Microbiology, OU (2020 ~ 2024), then Postdoc at the Department of Biostatistics in Harvard T.H. Chan School of Public Health, now in the same position. Dissertation title: *Metabolic Dependencies Drive Species Interactions in the Microbial Communities.*
+
+* [**Adrien Badré**](https://github.com/adbadre), Ph.D. in Computer Science, OU (2018 ~ 2023), then Senior Data Scientist at Novartis Inc., now in the same position. Dissertation title: *Interpretable Deep Neural Networks for More Accurate Predictive Genomics and Genome-wide Association Studies.*
+
+* [**Paul M. Calle Contreras**](https://github.com/pcallec), Ph.D. in Computer Science, OU (2019 ~ 2025), then Postdoc at OU, now in the same position. Dissertation title: *Healthcare Innovations Empowered by Discriminative and Generative Artificial Intelligence.*
+
+
+  
