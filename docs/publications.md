@@ -13,6 +13,27 @@ nav_order: 3
 \
 **Computer Science:**
 
+- [Luedeking-Piret Regression for Multi-Step-Ahead Forecasting and Clone Selection in mAb Biomanufacturing](#)   
+  P. Wang, D. Verma, Y. Chiu, J. Klier, C. Pan  
+  **Communication Engineering**   (Accepted)
+
+- [Unified modeling language code generation from diagram images using multimodal large language models](https://arxiv.org/abs/2503.12293) (2025)  
+  A. Bates, R. Vavricka, S. Carleton, R. Shao, C. Pan  
+  **Machine Learning with Applications**, 20:100660. doi: 10.1016/j.mlwa.2025.100660  
+
+- [Integration of Nested Cross-Validation, Automated Hyperparameter Optimization, and High-Performance Computing to Reduce and Quantify the Variance of Test Performance Estimation of Deep Learning Models](https://arxiv.org/abs/2503.08589) (2025)  
+  P. Calle, A. Bates, J.C. Reynolds, Y. Liu, H. Cui, S. Ly, C. Wang, Q. Zhang, A.J. de Armendi, S.S. Shettar, K.M. Fung, Q. Tang, C. Pan  
+  **Computer Methods and Programs in Biomedicine**, 10;272:109063. doi: 10.1016/j.cmpb.2025.109063  
+
+- [Towards AI-Driven Healthcare: Systematic Optimization, Linguistic Analysis, and Clinicians’ Evaluation of Large Language Models for Smoking Cessation Interventions](https://dl.acm.org/doi/10.1145/3613904.3641965) (2024)  
+  P. Calle, R. Shao, Y. Liu, E. Hebert, D. Kendzor, J. Neil, M. Businelle, C. Pan  
+  **Proceedings of the 2024 ACM CHI Conference on Human Factors in Computing Systems (CHI)**, Hawaii, USA  
+
+- [Explainable Multi-Task Learning Improves the Parallel Estimation of Polygenic Risk Scores for Many Diseases Through Shared Genetic Basis](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011211) (2023)  
+  A. Badré, C. Pan  
+  **PLoS Computational Biology**, 19(7):e1011211. doi: 10.1371/journal.pcbi.1011211  
+
+
 - [LINA: A Linearizing Neural Network Architecture for Accurate First-Order and Second-Order Interpretations](https://ieeexplore.ieee.org/document/9745057) (2022)   
    A. Badré and C. Pan    
    **IEEE Access** 10:36166-36176. doi: 10.1109/access.2022.3163257
@@ -37,7 +58,27 @@ nav_order: 3
   
 **Biological Sciences:**
     
-  
+- [Proteomic Stable Isotope Probing with an Upgraded Sipros Algorithm for Improved Identification and Quantification of Isotopically Labeled Proteins](https://pubmed.ncbi.nlm.nih.gov/39118147/) (2024)  
+  Y. Xiong, R.S. Mueller, S. Feng, X. Guo, C. Pan  
+  **Microbiome**, 12(1):148. doi: 10.1186/s40168-024-01866-1  
+
+- [Metaproteomics-Informed Stoichiometric Modeling Reveals the Responses of Wetland Microbial Communities to Oxygen and Sulfate Exposure](https://www.nature.com/articles/s41522-024-00525-5) (2024)  
+  D. Wang, P. Candry, K.A. Hunt, Z. Flinkstrom, Z. Shi, Y. Liu, N.Q. Wofford, M.J. McInerney, R.S. Tanner, K.B. De León, J. Zhou, M.H. Winkler, D.A. Stahl, C. Pan  
+  **NPJ Biofilms and Microbiomes**, 10(1):55. doi: 10.1038/s41522-024-00525-5  
+
+- [Cross-Feedings, Competition, and Positive and Negative Synergies in a Four-Species Synthetic Community for Anaerobic Degradation of Cellulose to Methane](https://pubmed.ncbi.nlm.nih.gov/36847519/) (2023)  
+  D. Wang, K.A. Hunt, P. Candry, X. Tao, N.Q. Wofford, J. Zhou, M.J. McInerney, D.A. Stahl, R.S. Tanner, A. Zhou, M. Winkler, C. Pan  
+  **mBio**, 14(2):e0318922. doi: 10.1128/mbio.03189-22  
+
+- [Islet Autoantibody Seroconversion in Type-1 Diabetes is Associated with Metagenome-Assembled Genomes in Infant Gut Microbiomes](https://www.nature.com/articles/s41467-022-31227-1) (2022)  
+  L. Zhang, K.R. Jonscher, Z. Zhang, Y. Xiong, R.S. Mueller, J.E. Friedman, C. Pan  
+  **Nature Communications**, 13(1). doi: 10.1038/s41467-022-31227-1  
+
+- [Community Proteogenomics Reveals the Systemic Impact of Phosphorus Availability on Microbial Functions in Tropical Soil](https://www.nature.com/articles/s41559-017-0463-5) (2018)  
+  Q. Yao, Z. Li, Y. Song, S.J. Wright, X. Guo, S.G. Tringe, M.M. Tfaily, L. Paša-Tolić, T.C. Hazen, B.L. Turner, M.A. Mayes, C. Pan  
+  **Nature Ecology and Evolution**, 2(3):499–509  
+
+
 - [Islet autoantibody seroconversion in type-1 diabetes is associated with metagenome-assembled genomes in infant gut microbiomes](https://www.nature.com/articles/s41467-022-31227-1) (2022)  
   L. Zhang, K.R. Jonscher, Z. Zhang, Y. Xiong, R.S. Mueller, J.E. Friedman, C. Pan  
   **Nature Communications** 13(1):3551. doi: 10.1038/s41467-022-31227-1   
