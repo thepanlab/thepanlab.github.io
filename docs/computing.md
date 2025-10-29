@@ -61,6 +61,25 @@ nav_order: 6
   RAM: 512GB  
   Disk: 2 TB M.2 NVMe PCIe 4.0 SSD + 8TB 7200RPM 256MB CACHE 3.5IN SATA HDD
 
+- **Pacer GPU server** (Jan. 2024)  
+  URL: pacer.cs.nor.ou.edu (SSH in OU intranet).  
+  CPUs: AMD Ryzen Threadripper PRO 5955WX, 16 cores, 3.8–4.0 GHz  
+  GPUs: dual NVIDIA GeForce RTX 4090 24 GB  
+  RAM: 256 GB  
+  Disk: 3.5 TB NVMe SSD (OS) + 14 TB NVMe SSD (/data)  
+  CUDA: 12.8  
+  PyTorch: not installed
+  
+- **Clipper GPU server** (Jun. 2023)  
+  URL: clipper.cs.nor.ou.edu (SSH in OU intranet).  
+  CPUs: AMD Ryzen Threadripper PRO 5955WX, 16 cores, 3.8–4.0 GHz  
+  GPUs: dual NVIDIA GeForce RTX 4090 24 GB  
+  RAM: 251 GB  
+  Disk: 3.5 TB NVMe SSD (OS) + 14 TB NVMe SSD (/data)  
+  CUDA: 11.8  
+  PyTorch: 2.0.1
+
+
 - **Virtual machines** on the [OU cloud](https://www.ou.edu/oscer/resources/our_cloud)  
   [Booming web server](http://booming.oscer.ou.edu)  
   Milkyway database server
