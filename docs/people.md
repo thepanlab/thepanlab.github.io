@@ -18,10 +18,10 @@ nav_order: 2
 - [**Averi J. Bates**](), 2025 ~ Present  
 Ph.D. student in Computer Science, OU
 
-- [**Sinaro Ly**](), 2024 ~ Present    
+- [**Sinaro Ly**](https://scholar.google.com/citations?hl=en&user=q0XFbd8AAAAJ), 2024 ~ Present    
 Ph.D. student in Computer Science, OU
 
-- [**Haoyang Cui**](), 2023 ~ Present  
+- [**Haoyang Cui**](https://scholar.google.com/citations?user=-AVEPBQAAAAJ&hl=en), 2023 ~ Present  
 Ph.D. student in Computer Science, OU
 
 - [**Yunlong Liu**](https://github.com/Alex-ylliu), 2021 ~ Present  
@@ -33,18 +33,18 @@ Ph.D. student in Computer Science, OU
 
 ### **Microbiology Lab Members:**  
  
-- [**Xiong Yi**](https://github.com/thepanlab), 2020 ~ Present  
+- [**Xiong Yi**](https://www.linkedin.com/in/yixiong88/), 2020 ~ Present  
 Ph.D. student in Microbiology, OU
 
 
 ### **Biomedical Engineering Members:**
 
-- [**Yan Cui**](), 2025 ~ Present  
+- [**Yan Cui**](www.linkedin.com/in/yan-cui-609469328), 2025 ~ Present  
 Ph.D. student in Biomedical Engineering, OU  
 
 ### **Data Science and Analytics Members:**
 
-- [**Penghua Wang**](), 2023 ~ Present  
+- [**Penghua Wang**](https://www.linkedin.com/in/penghua-wang-a534a338/), 2023 ~ Present  
 Ph.D. student in Data Science and Analytics, OU  
 
 ### **Lab Alumni:**
