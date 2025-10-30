@@ -17,11 +17,11 @@ nav_order: 3
   P. Wang, D. Verma, Y. Chiu, J. Klier, C. Pan  
   **Communication Engineering**   (Accepted)
 
-- [Unified modeling language code generation from diagram images using multimodal large language models](https://arxiv.org/abs/2503.12293) (2025)  
+- [Unified modeling language code generation from diagram images using multimodal large language models](https://www.sciencedirect.com/science/article/pii/S266682702500043X) (2025)  
   A. Bates, R. Vavricka, S. Carleton, R. Shao, C. Pan  
   **Machine Learning with Applications**, 20:100660. doi: 10.1016/j.mlwa.2025.100660  
 
-- [Integration of Nested Cross-Validation, Automated Hyperparameter Optimization, and High-Performance Computing to Reduce and Quantify the Variance of Test Performance Estimation of Deep Learning Models](https://arxiv.org/abs/2503.08589) (2025)  
+- [Integration of Nested Cross-Validation, Automated Hyperparameter Optimization, and High-Performance Computing to Reduce and Quantify the Variance of Test Performance Estimation of Deep Learning Models](https://www.sciencedirect.com/science/article/pii/S0169260725004808) (2025)  
   P. Calle, A. Bates, J.C. Reynolds, Y. Liu, H. Cui, S. Ly, C. Wang, Q. Zhang, A.J. de Armendi, S.S. Shettar, K.M. Fung, Q. Tang, C. Pan  
   **Computer Methods and Programs in Biomedicine**, 10;272:109063. doi: 10.1016/j.cmpb.2025.109063  
 
