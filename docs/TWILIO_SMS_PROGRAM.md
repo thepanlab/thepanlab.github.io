@@ -1,3 +1,9 @@
+---
+layout: default
+title: 'Exercise Coach SMS Program'
+nav_exclude: true
+---
+
 # Exercise Coach SMS Program
 
 Uses SMS to send participant-facing program messages, reminders, and support updates for an educational/research coaching program.
