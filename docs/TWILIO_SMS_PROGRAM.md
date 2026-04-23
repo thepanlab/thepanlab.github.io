@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Exercise Coach SMS Program'
+title: 'exercise_coach_sms_opt_in'
 nav_exclude: true
 ---
 
